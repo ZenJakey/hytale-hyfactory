@@ -1,3 +1,14 @@
+# Kotlin based Hytale Plugin Template
+Based on the Hytale Plugin Template by [Britakee Studios](https://britakee-studios.gitbook.io/hytale-modding-documentation/)
+Changes:
+- Added Kotlin Support
+- Tweaked Gradle to support:
+  - Shadow Jar with Kotlin
+  - Publishing to Maven Local (for use in other projects as a dependency)
+- Uses the Maven repository for Hytale Server jar
+- Tested with Java 25 & Kotlin 2.2
+
+
 # Hytale Plugin Template
 
 A minimal, ready-to-use template for creating Hytale plugins with modern build tools and automated testing.
