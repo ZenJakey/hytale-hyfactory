@@ -1,5 +1,5 @@
 {
-    "Group": "Trinex",
+    "Group": "YourName",
     "Name": "PluginName",
     "Version": "0.0.2",
     "Description": "An example plugin for HyTale!",
@@ -17,6 +17,6 @@
         
     },
     "DisabledByDefault": false,
-    "Main": "com.trinex.pluginname.PluginName",
+    "Main": "com.yourname.pluginname.PluginName",
     "IncludesAssetPack": true
 }
