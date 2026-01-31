@@ -62,6 +62,7 @@ dependencies {
     // Provided by the server at runtime; needed for compilation + IDE run only
     compileOnly("com.hypixel.hytale:Server:+")
     runtimeOnly("com.hypixel.hytale:Server:+")
+    implementation("com.trinex:TrinexLib:+")
     // Only put things you actually want inside the fat jar here:
     shade("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
     // shade("group:artifact:version") ...

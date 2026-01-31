@@ -1,13 +1,13 @@
-package com.trinex.pluginname
+package com.trinex.hyfactory.commands
 
 import com.hypixel.hytale.protocol.GameMode
-import com.hypixel.hytale.server.core.Message
 import com.hypixel.hytale.server.core.command.system.CommandContext
 import com.hypixel.hytale.server.core.command.system.basecommands.CommandBase
+import com.trinex.hyfactory.HyFactory
 
-class TestCommand(val plugin: PluginName)
-    : CommandBase("test", "Test command") {
-
+class VersionCommand(
+    val plugin: HyFactory,
+) : CommandBase("hyfactory", "Gets the plugin version.") {
     private val pluginName = plugin.name
     private val pluginVersion = plugin.manifest.version
 
@@ -16,7 +16,6 @@ class TestCommand(val plugin: PluginName)
     }
 
     override fun executeSync(ctx: CommandContext) {
-        ctx.sendMessage(Message.raw("Hello from $pluginName version $pluginVersion!"))
+        plugin.messenger.sendMessage("$pluginName version $pluginVersion!", ctx)
     }
-
 }

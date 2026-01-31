@@ -1,22 +1,22 @@
 {
-    "Group": "YourName",
-    "Name": "PluginName",
-    "Version": "0.0.2",
-    "Description": "An example plugin for HyTale!",
+    "Group": "Trinex",
+    "Name": "HyFactory",
+    "Version": "0.0.1",
+    "Description": "A factory plugin for Hytale!",
     "Authors": [
         {
-            "Name": "It's you!"
+            "Name": "ZenJakey"
         }
     ],
-    "Website": "example.org",
+    "Website": "",
     "ServerVersion": "*",
     "Dependencies": {
-        
+        "Trinex:Library": "^0.0.5"
     },
     "OptionalDependencies": {
         
     },
     "DisabledByDefault": false,
-    "Main": "com.yourname.pluginname.PluginName",
+    "Main": "com.trinex.hyfactory.HyFactory",
     "IncludesAssetPack": true
 }
