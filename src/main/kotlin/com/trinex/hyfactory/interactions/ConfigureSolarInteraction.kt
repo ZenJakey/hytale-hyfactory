@@ -38,7 +38,8 @@ class ConfigureSolarInteraction : SimpleInteraction() {
                     Message.raw(
                         "Energy: ${EnergyDefinitions.getAbbreviationFor(
                             energyComponent.energy,
-                        )} / ${EnergyDefinitions.getAbbreviationFor(energyComponent.energyCapacity)}",
+                        )} / ${EnergyDefinitions.getAbbreviationFor(energyComponent.energyCapacity)}\n" +
+                            "Energy received last tick: ${energyComponent.energyDeltaLastTick}",
                     ),
                 )
             } else {

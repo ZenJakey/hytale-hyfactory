@@ -49,7 +49,7 @@
       "Components": {
         "EnergyComponent": {
           "DeviceClassification" : "TRANSPORT",
-          "TransferSpeed": 5
+          "TransferSpeed": 1
         }
       }
     }
