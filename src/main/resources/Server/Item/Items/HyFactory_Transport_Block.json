@@ -1,9 +1,9 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.Hytech_Solar_Block.name"
+    "Name": "server.items.HyFactory_Transport_Block.name"
   },
   "ItemLevel": 600,
-  "Icon": "Icons/ItemsGenerated/Hytech_Solar_Block.png",
+  "Icon": "Icons/ItemsGenerated/HyFactory_Transport_Block.png",
   "Categories": [
     "Blocks.Soils"
   ],
@@ -24,7 +24,7 @@
     "BlockParticleSetId": "Sand",
     "Textures": [
       {
-        "All": "BlockTextures/Hytech_Solar_Block.png",
+        "All": "BlockTextures/HyFactory_Transport_Block.png",
         "Weight": 1
       }
     ],
@@ -38,7 +38,7 @@
     ],
     "CustomModelTexture": [
       {
-        "Texture": "BlockTextures/Hytech_Solar_Block.png"
+        "Texture": "BlockTextures/HyFactory_Transport_Block.png"
       }
     ],
     "CustomModel": "Blocks/Tech_Solar_Block.blockymodel",
@@ -48,11 +48,8 @@
     "BlockEntity": {
       "Components": {
         "EnergyComponent": {
-          "DeviceType": "Trinex:Solar",
-          "EnergyGenerationPerTick": 10,
-          "EnergyCapacity": 10000,
-          "IsActive": true,
-          "DeviceClassification" : "PROVIDER"
+          "DeviceClassification" : "TRANSPORT",
+          "TransferSpeed": 5
         }
       }
     }

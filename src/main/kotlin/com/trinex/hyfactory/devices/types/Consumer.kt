@@ -8,7 +8,7 @@ import com.hypixel.hytale.server.core.universe.world.storage.ChunkStore
 import com.trinex.lib.api.energy.EnergyComponent
 import com.trinex.lib.api.energy.EnergyDeviceType
 
-class Solar : EnergyDeviceType {
+class Consumer : EnergyDeviceType {
     val logger = HytaleLogger.forEnclosingClass()
 
     override fun onTick(
@@ -19,6 +19,7 @@ class Solar : EnergyDeviceType {
         store: Store<ChunkStore?>,
         commandBuffer: CommandBuffer<ChunkStore?>,
     ) {
-        energyComponent.addEnergy(energyComponent.energyGenerationPerTick)
+        if (energyComponent.energy < energyComponent.energyConsumptionPerTick) return
+        energyComponent.removeEnergy(energyComponent.energyConsumptionPerTick)
     }
 }
