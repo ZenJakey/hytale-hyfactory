@@ -8,6 +8,7 @@ import com.hypixel.hytale.server.core.plugin.JavaPluginInit
 import com.hypixel.hytale.server.core.universe.world.storage.ChunkStore
 import com.trinex.hyfactory.commands.VersionCommand
 import com.trinex.hyfactory.energy.devices.Devices
+import com.trinex.hyfactory.energy.EnergyPipeVisualSystem
 import com.trinex.hyfactory.interactions.ConfigureItemPipeInteraction
 import com.trinex.hyfactory.interactions.ConfigureSolarInteraction
 import com.trinex.hyfactory.itempipe.ItemPipeVisualSystem
@@ -29,6 +30,7 @@ class HyFactory(
         Devices.init()
 
         this.getChunkStoreRegistry().registerSystem(ItemPipeVisualSystem())
+        this.getChunkStoreRegistry().registerSystem(EnergyPipeVisualSystem())
 
         this
             .getCodecRegistry(Interaction.CODEC)
