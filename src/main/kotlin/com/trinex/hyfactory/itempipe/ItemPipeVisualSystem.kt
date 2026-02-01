@@ -13,6 +13,7 @@ import com.hypixel.hytale.server.core.modules.block.BlockModule
 import com.hypixel.hytale.server.core.universe.world.World
 import com.hypixel.hytale.server.core.universe.world.chunk.WorldChunk
 import com.hypixel.hytale.server.core.universe.world.storage.ChunkStore
+import com.trinex.hyfactory.pipe.PipeRotationUtil
 import com.trinex.lib.TrinexLib
 import com.trinex.lib.api.itemtransport.BlockSide
 import com.trinex.lib.api.itemtransport.ItemTransportComponent
@@ -43,10 +44,10 @@ class ItemPipeVisualSystem : EntityTickingSystem<ChunkStore?>() {
         val currentBlockType = wc.getBlockType(x, y, z) ?: return
         if (!ItemPipeVisuals.isItemPipeBlockType(currentBlockType)) return
 
-        val stateKey = ItemPipeVisuals.buildStateKey(transport, world, Vector3i(x, y, z))
-        val desiredBlockKey = ItemPipeVisuals.resolveBlockKeyForState(stateKey)
+        val canonical = ItemPipeVisuals.buildCanonicalState(transport, world, Vector3i(x, y, z))
+        val desiredBlockKey = ItemPipeVisuals.resolveBlockKeyForState(canonical.key)
         if (desiredBlockKey == null) {
-            logger.atInfo().log("ItemPipe state lookup failed at ($x,$y,$z). state=$stateKey current=${currentBlockType.id}")
+            logger.atInfo().log("ItemPipe state lookup failed at ($x,$y,$z). state=${canonical.key} current=${currentBlockType.id}")
             return
         }
         if (desiredBlockKey == currentBlockType.id) return
@@ -54,21 +55,20 @@ class ItemPipeVisualSystem : EntityTickingSystem<ChunkStore?>() {
         val blockTypeMap = BlockType.getAssetMap()
         val desiredId = blockTypeMap.getIndex(desiredBlockKey)
         if (desiredId == Integer.MIN_VALUE) {
-            logger.atInfo().log(
-                "ItemPipe desired block key not found at ($x,$y,$z). state=$stateKey desired=$desiredBlockKey current=${currentBlockType.id}",
-            )
+            // logger.atInfo().log(
+            //    "ItemPipe desired block key not found at ($x,$y,$z). state=$stateKey desired=$desiredBlockKey current=${currentBlockType.id}",
+            // )
             return
         }
         val desiredBlockType = blockTypeMap.getAsset(desiredId) ?: return
 
         val blockChunk = wc.blockChunk ?: return
         val blockSection = blockChunk.getSectionAtBlockY(y)
-        val rotation = blockSection.getRotationIndex(x, y, z)
         val filler = blockSection.getFiller(x, y, z)
         logger.atInfo().log(
-            "ItemPipe updating block at ($x,$y,$z). state=$stateKey current=${currentBlockType.id} desired=$desiredBlockKey",
+            "ItemPipe updating block at ($x,$y,$z). state=${canonical.key} current=${currentBlockType.id} desired=$desiredBlockKey",
         )
-        wc.setBlock(x, y, z, desiredId, desiredBlockType, rotation, filler, ItemPipeVisuals.UPDATE_SETTINGS)
+        wc.setBlock(x, y, z, desiredId, desiredBlockType, canonical.rotationIndex, filler, ItemPipeVisuals.UPDATE_SETTINGS)
     }
 }
 
@@ -78,28 +78,17 @@ object ItemPipeVisuals {
     // Skip block entity/state rebuild + skip particles
     const val UPDATE_SETTINGS: Int = 2 or 4
 
-    private val SIDE_ORDER =
-        listOf(
-            BlockSide.NORTH,
-            BlockSide.SOUTH,
-            BlockSide.EAST,
-            BlockSide.WEST,
-            BlockSide.UP,
-            BlockSide.DOWN,
-        )
-
-    fun buildStateKey(
+    fun buildCanonicalState(
         transport: ItemTransportComponent,
         world: World,
         pos: Vector3i,
-    ): String {
-        val parts = ArrayList<String>(SIDE_ORDER.size)
-        for (side in SIDE_ORDER) {
-            val stateValue = computeSideState(transport, world, pos, side)
-            val sideName = side.name.lowercase().replaceFirstChar { it.uppercase() }
-            parts.add("$sideName$stateValue")
+    ): PipeRotationUtil.CanonicalState {
+        val values = IntArray(PipeRotationUtil.SIDE_ORDER.size)
+        for (i in PipeRotationUtil.SIDE_ORDER.indices) {
+            val side = PipeRotationUtil.SIDE_ORDER[i]
+            values[i] = computeSideState(transport, world, pos, side)
         }
-        return parts.joinToString("_")
+        return PipeRotationUtil.canonicalize(values)
     }
 
     fun resolveBlockKeyForState(stateKey: String): String? {

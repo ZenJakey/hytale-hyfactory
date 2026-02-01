@@ -14,6 +14,7 @@ import com.hypixel.hytale.server.core.universe.world.chunk.WorldChunk
 import com.hypixel.hytale.server.core.universe.world.storage.ChunkStore
 import com.trinex.lib.api.energy.EnergyComponent
 import com.trinex.lib.api.itemtransport.BlockSide
+import com.trinex.hyfactory.pipe.PipeRotationUtil
 
 class EnergyPipeVisualSystem : EntityTickingSystem<ChunkStore?>() {
     override fun getQuery(): Query<ChunkStore?> = Query.and(EnergyComponent.getComponentType())
@@ -37,8 +38,8 @@ class EnergyPipeVisualSystem : EntityTickingSystem<ChunkStore?>() {
         val currentBlockType = wc.getBlockType(x, y, z) ?: return
         if (!EnergyPipeVisuals.isEnergyPipeBlockType(currentBlockType)) return
 
-        val stateKey = EnergyPipeVisuals.buildStateKey(world, Vector3i(x, y, z))
-        val desiredBlockKey = EnergyPipeVisuals.resolveBlockKeyForState(stateKey)
+        val canonical = EnergyPipeVisuals.buildCanonicalState(world, Vector3i(x, y, z))
+        val desiredBlockKey = EnergyPipeVisuals.resolveBlockKeyForState(canonical.key)
         if (desiredBlockKey == null || desiredBlockKey == currentBlockType.id) return
 
         val blockTypeMap = BlockType.getAssetMap()
@@ -48,9 +49,8 @@ class EnergyPipeVisualSystem : EntityTickingSystem<ChunkStore?>() {
 
         val blockChunk = wc.blockChunk ?: return
         val blockSection = blockChunk.getSectionAtBlockY(y)
-        val rotation = blockSection.getRotationIndex(x, y, z)
         val filler = blockSection.getFiller(x, y, z)
-        wc.setBlock(x, y, z, desiredId, desiredBlockType, rotation, filler, EnergyPipeVisuals.UPDATE_SETTINGS)
+        wc.setBlock(x, y, z, desiredId, desiredBlockType, canonical.rotationIndex, filler, EnergyPipeVisuals.UPDATE_SETTINGS)
     }
 }
 
@@ -60,27 +60,16 @@ object EnergyPipeVisuals {
     // Skip block entity/state rebuild + skip particles
     const val UPDATE_SETTINGS: Int = 2 or 4
 
-    private val SIDE_ORDER =
-        listOf(
-            BlockSide.NORTH,
-            BlockSide.SOUTH,
-            BlockSide.EAST,
-            BlockSide.WEST,
-            BlockSide.UP,
-            BlockSide.DOWN,
-        )
-
-    fun buildStateKey(
+    fun buildCanonicalState(
         world: World,
         pos: Vector3i,
-    ): String {
-        val parts = ArrayList<String>(SIDE_ORDER.size)
-        for (side in SIDE_ORDER) {
-            val stateValue = computeSideState(world, pos, side)
-            val sideName = side.name.lowercase().replaceFirstChar { it.uppercase() }
-            parts.add("$sideName$stateValue")
+    ): PipeRotationUtil.CanonicalState {
+        val values = IntArray(PipeRotationUtil.SIDE_ORDER.size)
+        for (i in PipeRotationUtil.SIDE_ORDER.indices) {
+            val side = PipeRotationUtil.SIDE_ORDER[i]
+            values[i] = computeSideState(world, pos, side)
         }
-        return parts.joinToString("_")
+        return PipeRotationUtil.canonicalize(values)
     }
 
     fun resolveBlockKeyForState(stateKey: String): String? {
