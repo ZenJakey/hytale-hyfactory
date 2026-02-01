@@ -10,6 +10,7 @@ import com.trinex.hyfactory.commands.VersionCommand
 import com.trinex.hyfactory.energy.devices.Devices
 import com.trinex.hyfactory.interactions.ConfigureItemPipeInteraction
 import com.trinex.hyfactory.interactions.ConfigureSolarInteraction
+import com.trinex.hyfactory.itempipe.ItemPipeVisualSystem
 import com.trinex.lib.messenger.Messenger
 
 class HyFactory(
@@ -26,6 +27,8 @@ class HyFactory(
     override fun setup() {
         logger.atInfo().log("Setting up plugin " + this.name)
         Devices.init()
+
+        this.getChunkStoreRegistry().registerSystem(ItemPipeVisualSystem())
 
         this
             .getCodecRegistry(Interaction.CODEC)
