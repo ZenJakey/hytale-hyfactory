@@ -30,6 +30,8 @@
     ],
     "ParticleColor": "#3d3e3e",
     "BlockSoundSetId": "Gravel",
+    "HitboxType": "HyFactory_Pipe",
+    "InteractionHitboxType": "HyFactory_Pipe",
     "TransitionTexture": "BlockTextures/Transition_Ashes.png",
     "TransitionToGroups": [
       "Stone",
