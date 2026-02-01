@@ -1,8 +1,8 @@
-package com.trinex.hyfactory.devices
+package com.trinex.hyfactory.energy.devices
 
-import com.trinex.hyfactory.devices.types.Consumer
-import com.trinex.hyfactory.devices.types.Solar
-import com.trinex.lib.api.device.EnergyDeviceTypeRegistry
+import com.trinex.hyfactory.energy.devices.types.Consumer
+import com.trinex.hyfactory.energy.devices.types.Solar
+import com.trinex.lib.api.energy.device.EnergyDeviceTypeRegistry
 
 object Devices {
     val deviceTypes =

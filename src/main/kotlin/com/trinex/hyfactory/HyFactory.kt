@@ -1,11 +1,14 @@
 package com.trinex.hyfactory
 
+import com.hypixel.hytale.component.ResourceType
 import com.hypixel.hytale.logger.HytaleLogger
 import com.hypixel.hytale.server.core.modules.interaction.interaction.config.Interaction
 import com.hypixel.hytale.server.core.plugin.JavaPlugin
 import com.hypixel.hytale.server.core.plugin.JavaPluginInit
+import com.hypixel.hytale.server.core.universe.world.storage.ChunkStore
 import com.trinex.hyfactory.commands.VersionCommand
-import com.trinex.hyfactory.devices.Devices
+import com.trinex.hyfactory.energy.devices.Devices
+import com.trinex.hyfactory.interactions.ConfigureItemPipeInteraction
 import com.trinex.hyfactory.interactions.ConfigureSolarInteraction
 import com.trinex.lib.messenger.Messenger
 
@@ -27,6 +30,7 @@ class HyFactory(
         this
             .getCodecRegistry(Interaction.CODEC)
             .register("ConfigureSolar", ConfigureSolarInteraction::class.java, ConfigureSolarInteraction.CODEC)
+            .register("ConfigureItemPipe", ConfigureItemPipeInteraction::class.java, ConfigureItemPipeInteraction.CODEC)
 
         this.commandRegistry.registerCommand(VersionCommand(this))
     }

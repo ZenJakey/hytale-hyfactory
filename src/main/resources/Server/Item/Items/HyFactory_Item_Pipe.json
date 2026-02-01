@@ -1,9 +1,9 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.HyFactory_Transport_Block.name"
+    "Name": "server.items.HyFactory_Item_Pipe.name"
   },
   "ItemLevel": 600,
-  "Icon": "Icons/ItemsGenerated/HyFactory_Transport_Block.png",
+  "Icon": "Icons/ItemsGenerated/HyFactory_Item_Pipe.png",
   "Categories": [
     "Blocks.Soils"
   ],
@@ -24,7 +24,7 @@
     "BlockParticleSetId": "Sand",
     "Textures": [
       {
-        "All": "BlockTextures/HyFactory_Transport_Block.png",
+        "All": "BlockTextures/HyFactory_Item_Pipe.png",
         "Weight": 1
       }
     ],
@@ -38,18 +38,17 @@
     ],
     "CustomModelTexture": [
       {
-        "Texture": "BlockTextures/HyFactory_Transport_Block.png"
+        "Texture": "BlockTextures/HyFactory_Item_Pipe.png"
       }
     ],
-    "CustomModel": "Blocks/Tech_Solar_Block.blockymodel",
+    "CustomModel": "Blocks/HyFactory_Item_Pipe.blockymodel",
     "Interactions": {
-      "Use": "ConfigureSolar"
+      "Use": "ConfigureItemPipe"
     },
     "BlockEntity": {
       "Components": {
-        "EnergyComponent": {
-          "DeviceClassification" : "TRANSPORT",
-          "TransferSpeed": 100
+        "ItemTransportComponent": {
+          "ItemsPerSecond": 10
         }
       }
     }

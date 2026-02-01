@@ -63,6 +63,7 @@ dependencies {
     compileOnly("com.hypixel.hytale:Server:+")
     runtimeOnly("com.hypixel.hytale:Server:+")
     implementation("com.trinex:TrinexLib:+")
+    implementation("curse.maven:hyui-1431415:7553930")
     // Only put things you actually want inside the fat jar here:
     shade("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
     // shade("group:artifact:version") ...
@@ -115,6 +116,7 @@ def createServerRunArguments(String srcDir) {
     def modPaths = []
     if (includes_pack.toBoolean()) {
         modPaths << srcDir
+        modPaths << "${srcDir}/resources"
     }
     if (load_user_mods.toBoolean()) {
         modPaths << "${hytaleHome}/UserData/Mods"
@@ -172,6 +174,7 @@ repositories {
         name = "hytale-pre-release"
         url = uri("https://maven.hytale.com/pre-release")
     }
+    maven { url "https://www.cursemaven.com" }
 }
 kotlin {
     jvmToolchain(25)
