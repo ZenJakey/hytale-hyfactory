@@ -13,6 +13,7 @@ import com.hypixel.hytale.server.core.universe.world.World
 import com.hypixel.hytale.server.core.universe.world.chunk.WorldChunk
 import com.hypixel.hytale.server.core.universe.world.storage.ChunkStore
 import com.trinex.lib.api.energy.EnergyComponent
+import com.trinex.lib.api.energy.EnergyDeviceClassification
 import com.trinex.lib.api.itemtransport.BlockSide
 import com.trinex.hyfactory.pipe.PipeRotationUtil
 
@@ -107,7 +108,10 @@ object EnergyPipeVisuals {
         val energyComponent = world.chunkStore.store.getComponent(componentRef, EnergyComponent.getComponentType())
         if (energyComponent == null) return 0
         val neighborType = world.getBlockType(neighborPos.x, neighborPos.y, neighborPos.z) ?: return 0
-        val neighborBase = resolveBaseKey(neighborType) ?: return 0
-        return if (neighborBase == baseKey) 1 else 0
+        val neighborBase = resolveBaseKey(neighborType)
+        val shouldConnect =
+            (neighborBase == baseKey) ||
+                (energyComponent.deviceClassification != EnergyDeviceClassification.TRANSPORT)
+        return if (shouldConnect) 1 else 0
     }
 }
