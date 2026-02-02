@@ -3428,7 +3428,7 @@
   },
   "ItemSoundSetId": "ISS_Blocks_Soft",
   "IconProperties": {
-    "Scale": 0.58823,
+    "Scale": 2,
     "Rotation": [
       22.5,
       45,

@@ -12,10 +12,10 @@ import com.hypixel.hytale.server.core.modules.block.BlockModule
 import com.hypixel.hytale.server.core.universe.world.World
 import com.hypixel.hytale.server.core.universe.world.chunk.WorldChunk
 import com.hypixel.hytale.server.core.universe.world.storage.ChunkStore
+import com.trinex.hyfactory.pipe.PipeRotationUtil
 import com.trinex.lib.api.energy.EnergyComponent
 import com.trinex.lib.api.energy.EnergyDeviceClassification
 import com.trinex.lib.api.itemtransport.BlockSide
-import com.trinex.hyfactory.pipe.PipeRotationUtil
 
 class EnergyPipeVisualSystem : EntityTickingSystem<ChunkStore?>() {
     override fun getQuery(): Query<ChunkStore?> = Query.and(EnergyComponent.getComponentType())
@@ -92,9 +92,7 @@ object EnergyPipeVisuals {
         return base.getBlockKeyForState(stateKey) ?: base.id
     }
 
-    fun isEnergyPipeBlockType(blockType: BlockType): Boolean {
-        return resolveBaseKey(blockType) != null
-    }
+    fun isEnergyPipeBlockType(blockType: BlockType): Boolean = resolveBaseKey(blockType) != null
 
     private fun computeSideState(
         baseKey: String,
@@ -103,11 +101,10 @@ object EnergyPipeVisuals {
         side: BlockSide,
     ): Int {
         val neighborPos = pos.clone().add(side.offset)
-        val chunk = world.getChunk(ChunkUtil.indexChunkFromBlock(neighborPos.x, neighborPos.z)) ?: return 0
+        val chunk = world.getChunkIfInMemory(ChunkUtil.indexChunkFromBlock(neighborPos.x, neighborPos.z)) ?: return 0
         val componentRef = chunk.getBlockComponentEntity(neighborPos.x, neighborPos.y, neighborPos.z) ?: return 0
-        val energyComponent = world.chunkStore.store.getComponent(componentRef, EnergyComponent.getComponentType())
-        if (energyComponent == null) return 0
-        val neighborType = world.getBlockType(neighborPos.x, neighborPos.y, neighborPos.z) ?: return 0
+        val energyComponent = world.chunkStore.store.getComponent(componentRef, EnergyComponent.getComponentType()) ?: return 0
+        val neighborType = chunk.getBlockType(neighborPos.x, neighborPos.y, neighborPos.z) ?: return 0
         val neighborBase = resolveBaseKey(neighborType)
         val shouldConnect =
             (neighborBase == baseKey) ||

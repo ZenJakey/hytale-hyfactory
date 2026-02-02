@@ -127,7 +127,8 @@ object ItemPipeVisuals {
         if (mode == ItemTransportMode.PULL) return 3
 
         val neighborPos = pos.clone().add(side.offset)
-        val neighborType = world.getBlockType(neighborPos.x, neighborPos.y, neighborPos.z) ?: return 0
+        val chunk = world.getChunkIfInMemory(ChunkUtil.indexChunkFromBlock(neighborPos.x, neighborPos.z)) ?: return 0
+        val neighborType = chunk.getBlockType(neighborPos.x, neighborPos.y, neighborPos.z) ?: return 0
         val neighborBase = resolveBaseKey(neighborType) ?: return 0
         return if (neighborBase == baseKey) 1 else 0
     }

@@ -1,4 +1,7 @@
 items.Hytech_Solar_Block.name=Solar Panel
-items.HyFactpry_Storage_Block.name=Storage Block
+items.HyFactory_Storage_Block.name=Storage Block
 items.HyFactory_Transport_Block.name=Transport Block
 items.HyFactory_Consumer_Block.name=Consumer Block
+items.HyFactory_Energy_Pipe.name=Energy Pipe
+items.HyFactory_Item_Pipe.name=Item Pipe
+items.HyFactory_Item_Pipe2.name=Item Pipe (T2)

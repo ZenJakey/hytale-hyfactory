@@ -3,7 +3,7 @@
     "Name": "server.items.HyFactory_Item_Pipe2.name"
   },
   "ItemLevel": 600,
-  "Icon": "Icons/ItemsGenerated/HyFactory_Item_Pipe.png",
+  "Icon": "Icons/ItemsGenerated/HyFactory_Item_Pipe2.png",
   "Categories": [
     "Blocks.Soils"
   ],
@@ -3427,7 +3427,7 @@
   },
   "ItemSoundSetId": "ISS_Blocks_Soft",
   "IconProperties": {
-    "Scale": 0.58823,
+    "Scale": 2,
     "Rotation": [
       22.5,
       45,
