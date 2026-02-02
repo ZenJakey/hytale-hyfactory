@@ -42,10 +42,10 @@ class ItemPipeVisualSystem : EntityTickingSystem<ChunkStore?>() {
         val z = ChunkUtil.worldCoordFromLocalCoord(wc.z, ChunkUtil.zFromBlockInColumn(blockIndex))
 
         val currentBlockType = wc.getBlockType(x, y, z) ?: return
-        if (!ItemPipeVisuals.isItemPipeBlockType(currentBlockType)) return
+        val baseKey = ItemPipeVisuals.resolveBaseKey(currentBlockType) ?: return
 
-        val canonical = ItemPipeVisuals.buildCanonicalState(transport, world, Vector3i(x, y, z))
-        val desiredBlockKey = ItemPipeVisuals.resolveBlockKeyForState(canonical.key)
+        val canonical = ItemPipeVisuals.buildCanonicalState(baseKey, transport, world, Vector3i(x, y, z))
+        val desiredBlockKey = ItemPipeVisuals.resolveBlockKeyForState(baseKey, canonical.key)
         if (desiredBlockKey == null) {
             logger.atInfo().log("ItemPipe state lookup failed at ($x,$y,$z). state=${canonical.key} current=${currentBlockType.id}")
             return
@@ -73,12 +73,17 @@ class ItemPipeVisualSystem : EntityTickingSystem<ChunkStore?>() {
 }
 
 object ItemPipeVisuals {
-    private const val BASE_BLOCK_KEY = "HyFactory_Item_Pipe"
+    private val BASE_BLOCK_KEYS =
+        listOf(
+            "HyFactory_Item_Pipe",
+            "HyFactory_Item_Pipe2",
+        )
 
     // Skip block entity/state rebuild + skip particles
     const val UPDATE_SETTINGS: Int = 2 or 4
 
     fun buildCanonicalState(
+        baseKey: String,
         transport: ItemTransportComponent,
         world: World,
         pos: Vector3i,
@@ -86,22 +91,32 @@ object ItemPipeVisuals {
         val values = IntArray(PipeRotationUtil.SIDE_ORDER.size)
         for (i in PipeRotationUtil.SIDE_ORDER.indices) {
             val side = PipeRotationUtil.SIDE_ORDER[i]
-            values[i] = computeSideState(transport, world, pos, side)
+            values[i] = computeSideState(baseKey, transport, world, pos, side)
         }
         return PipeRotationUtil.canonicalize(values)
     }
 
-    fun resolveBlockKeyForState(stateKey: String): String? {
-        val base = BlockType.getAssetMap().getAsset(BASE_BLOCK_KEY) ?: return null
+    fun resolveBaseKey(blockType: BlockType): String? {
+        val id = blockType.id.removePrefix("*")
+        return BASE_BLOCK_KEYS.firstOrNull { baseKey ->
+            id == baseKey || id.startsWith("${baseKey}_")
+        }
+    }
+
+    fun resolveBlockKeyForState(
+        baseKey: String,
+        stateKey: String,
+    ): String? {
+        val base = BlockType.getAssetMap().getAsset(baseKey) ?: return null
         return base.getBlockKeyForState(stateKey) ?: base.id
     }
 
     fun isItemPipeBlockType(blockType: BlockType): Boolean {
-        val id = blockType.id
-        return id == BASE_BLOCK_KEY || id.startsWith("*$BASE_BLOCK_KEY") || id.startsWith("${BASE_BLOCK_KEY}_")
+        return resolveBaseKey(blockType) != null
     }
 
     private fun computeSideState(
+        baseKey: String,
         transport: ItemTransportComponent,
         world: World,
         pos: Vector3i,
@@ -113,6 +128,7 @@ object ItemPipeVisuals {
 
         val neighborPos = pos.clone().add(side.offset)
         val neighborType = world.getBlockType(neighborPos.x, neighborPos.y, neighborPos.z) ?: return 0
-        return if (isItemPipeBlockType(neighborType)) 1 else 0
+        val neighborBase = resolveBaseKey(neighborType) ?: return 0
+        return if (neighborBase == baseKey) 1 else 0
     }
 }

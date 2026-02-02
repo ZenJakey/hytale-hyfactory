@@ -36,10 +36,10 @@ class EnergyPipeVisualSystem : EntityTickingSystem<ChunkStore?>() {
         val z = ChunkUtil.worldCoordFromLocalCoord(wc.z, ChunkUtil.zFromBlockInColumn(blockIndex))
 
         val currentBlockType = wc.getBlockType(x, y, z) ?: return
-        if (!EnergyPipeVisuals.isEnergyPipeBlockType(currentBlockType)) return
+        val baseKey = EnergyPipeVisuals.resolveBaseKey(currentBlockType) ?: return
 
-        val canonical = EnergyPipeVisuals.buildCanonicalState(world, Vector3i(x, y, z))
-        val desiredBlockKey = EnergyPipeVisuals.resolveBlockKeyForState(canonical.key)
+        val canonical = EnergyPipeVisuals.buildCanonicalState(baseKey, world, Vector3i(x, y, z))
+        val desiredBlockKey = EnergyPipeVisuals.resolveBlockKeyForState(baseKey, canonical.key)
         if (desiredBlockKey == null || desiredBlockKey == currentBlockType.id) return
 
         val blockTypeMap = BlockType.getAssetMap()
@@ -55,34 +55,48 @@ class EnergyPipeVisualSystem : EntityTickingSystem<ChunkStore?>() {
 }
 
 object EnergyPipeVisuals {
-    private const val BASE_BLOCK_KEY = "HyFactory_Energy_Pipe"
+    private val BASE_BLOCK_KEYS =
+        listOf(
+            "HyFactory_Energy_Pipe",
+        )
 
     // Skip block entity/state rebuild + skip particles
     const val UPDATE_SETTINGS: Int = 2 or 4
 
     fun buildCanonicalState(
+        baseKey: String,
         world: World,
         pos: Vector3i,
     ): PipeRotationUtil.CanonicalState {
         val values = IntArray(PipeRotationUtil.SIDE_ORDER.size)
         for (i in PipeRotationUtil.SIDE_ORDER.indices) {
             val side = PipeRotationUtil.SIDE_ORDER[i]
-            values[i] = computeSideState(world, pos, side)
+            values[i] = computeSideState(baseKey, world, pos, side)
         }
         return PipeRotationUtil.canonicalize(values)
     }
 
-    fun resolveBlockKeyForState(stateKey: String): String? {
-        val base = BlockType.getAssetMap().getAsset(BASE_BLOCK_KEY) ?: return null
+    fun resolveBaseKey(blockType: BlockType): String? {
+        val id = blockType.id.removePrefix("*")
+        return BASE_BLOCK_KEYS.firstOrNull { baseKey ->
+            id == baseKey || id.startsWith("${baseKey}_")
+        }
+    }
+
+    fun resolveBlockKeyForState(
+        baseKey: String,
+        stateKey: String,
+    ): String? {
+        val base = BlockType.getAssetMap().getAsset(baseKey) ?: return null
         return base.getBlockKeyForState(stateKey) ?: base.id
     }
 
     fun isEnergyPipeBlockType(blockType: BlockType): Boolean {
-        val id = blockType.id
-        return id == BASE_BLOCK_KEY || id.startsWith("*$BASE_BLOCK_KEY") || id.startsWith("${BASE_BLOCK_KEY}_")
+        return resolveBaseKey(blockType) != null
     }
 
     private fun computeSideState(
+        baseKey: String,
         world: World,
         pos: Vector3i,
         side: BlockSide,
@@ -91,6 +105,9 @@ object EnergyPipeVisuals {
         val chunk = world.getChunk(ChunkUtil.indexChunkFromBlock(neighborPos.x, neighborPos.z)) ?: return 0
         val componentRef = chunk.getBlockComponentEntity(neighborPos.x, neighborPos.y, neighborPos.z) ?: return 0
         val energyComponent = world.chunkStore.store.getComponent(componentRef, EnergyComponent.getComponentType())
-        return if (energyComponent != null) 1 else 0
+        if (energyComponent == null) return 0
+        val neighborType = world.getBlockType(neighborPos.x, neighborPos.y, neighborPos.z) ?: return 0
+        val neighborBase = resolveBaseKey(neighborType) ?: return 0
+        return if (neighborBase == baseKey) 1 else 0
     }
 }
