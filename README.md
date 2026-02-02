@@ -5,7 +5,7 @@ Uses my TrinexLib plugin as a dependency for power and item movement control
 A factorization mod that I'm making for fun!
 
 Current functions:
-- Item pipes w/ configuration
+- Item pipes w/ configuration annd filters (smartly decides which inventory to put items in and take out of)
 - Energy pipes
 - Generic power generators, consumers, and storages for testing currently
 
