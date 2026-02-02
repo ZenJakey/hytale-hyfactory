@@ -32,6 +32,7 @@ object PipeRotationUtil {
     private data class RotationMapping(
         val rotationIndex: Int,
         val mapping: IntArray,
+        val inverseRotationIndex: Int,
     )
 
     private val keyByIndex = Array(STATE_COUNT) { indexToKey(it) }
@@ -51,9 +52,9 @@ object PipeRotationUtil {
                     rotated[i] = values[mapping.mapping[i]]
                 }
                 val rotatedIndex = indexFromValues(rotated)
-                if (rotatedIndex < bestIndex || (rotatedIndex == bestIndex && mapping.rotationIndex < bestRotation)) {
+                if (rotatedIndex < bestIndex || (rotatedIndex == bestIndex && mapping.inverseRotationIndex < bestRotation)) {
                     bestIndex = rotatedIndex
-                    bestRotation = mapping.rotationIndex
+                    bestRotation = mapping.inverseRotationIndex
                 }
             }
 
@@ -87,17 +88,44 @@ object PipeRotationUtil {
             byVector[vectorKey(offset)] = i
         }
 
-        val mappings = ArrayList<RotationMapping>(4)
+        val mappingsByKey = HashMap<String, Pair<Int, IntArray>>(16)
         for (yaw in Rotation.VALUES) {
-            val mapping = IntArray(SIDE_ORDER.size)
-            for (i in SIDE_ORDER.indices) {
-                val offset = SIDE_ORDER[i].offset
-                val rotated = Rotation.rotate(offset, yaw, Rotation.None, Rotation.None)
-                mapping[i] = byVector[vectorKey(rotated)]
-                    ?: error("Unknown rotated vector for side ${SIDE_ORDER[i]}: $rotated")
+            for (pitch in Rotation.VALUES) {
+                val roll = Rotation.None
+                val mapping = IntArray(SIDE_ORDER.size)
+                for (i in SIDE_ORDER.indices) {
+                    val offset = SIDE_ORDER[i].offset
+                    val rotated = Rotation.rotate(offset, yaw, pitch, roll)
+                    val destIndex = byVector[vectorKey(rotated)]
+                        ?: error("Unknown rotated vector for side ${SIDE_ORDER[i]}: $rotated")
+                    // Active rotation: value at source side i moves to destIndex.
+                    mapping[destIndex] = i
+                }
+                val rotationIndex = RotationTuple.index(yaw, pitch, roll)
+                val key = mapping.joinToString(",")
+                val existing = mappingsByKey[key]
+                if (existing == null || rotationIndex < existing.first) {
+                    mappingsByKey[key] = rotationIndex to mapping
+                }
             }
-            val rotationIndex = RotationTuple.index(yaw, Rotation.None, Rotation.None)
-            mappings.add(RotationMapping(rotationIndex, mapping))
+        }
+        val rotationIndexByKey = HashMap<String, Int>(mappingsByKey.size)
+        for ((key, value) in mappingsByKey) {
+            rotationIndexByKey[key] = value.first
+        }
+
+        val mappings = ArrayList<RotationMapping>(mappingsByKey.size)
+        for ((key, value) in mappingsByKey) {
+            val mapping = value.second
+            val inverse = IntArray(SIDE_ORDER.size)
+            for (i in mapping.indices) {
+                inverse[mapping[i]] = i
+            }
+            val inverseKey = inverse.joinToString(",")
+            val inverseRotationIndex =
+                rotationIndexByKey[inverseKey]
+                    ?: continue
+            mappings.add(RotationMapping(value.first, mapping, inverseRotationIndex))
         }
         return mappings
     }

@@ -70,9 +70,6 @@
         "North0_South0_East0_West0_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West0_Up0_Down3.blockymodel"
         },
-        "North0_South0_East0_West0_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West0_Up1_Down0.blockymodel"
-        },
         "North0_South0_East0_West0_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West0_Up1_Down1.blockymodel"
         },
@@ -82,26 +79,11 @@
         "North0_South0_East0_West0_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West0_Up1_Down3.blockymodel"
         },
-        "North0_South0_East0_West0_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West0_Up2_Down0.blockymodel"
-        },
-        "North0_South0_East0_West0_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West0_Up2_Down1.blockymodel"
-        },
         "North0_South0_East0_West0_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West0_Up2_Down2.blockymodel"
         },
         "North0_South0_East0_West0_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West0_Up2_Down3.blockymodel"
-        },
-        "North0_South0_East0_West0_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West0_Up3_Down0.blockymodel"
-        },
-        "North0_South0_East0_West0_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West0_Up3_Down1.blockymodel"
-        },
-        "North0_South0_East0_West0_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West0_Up3_Down2.blockymodel"
         },
         "North0_South0_East0_West0_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West0_Up3_Down3.blockymodel"
@@ -118,9 +100,6 @@
         "North0_South0_East0_West1_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West1_Up0_Down3.blockymodel"
         },
-        "North0_South0_East0_West1_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West1_Up1_Down0.blockymodel"
-        },
         "North0_South0_East0_West1_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West1_Up1_Down1.blockymodel"
         },
@@ -130,26 +109,11 @@
         "North0_South0_East0_West1_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West1_Up1_Down3.blockymodel"
         },
-        "North0_South0_East0_West1_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West1_Up2_Down0.blockymodel"
-        },
-        "North0_South0_East0_West1_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West1_Up2_Down1.blockymodel"
-        },
         "North0_South0_East0_West1_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West1_Up2_Down2.blockymodel"
         },
         "North0_South0_East0_West1_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West1_Up2_Down3.blockymodel"
-        },
-        "North0_South0_East0_West1_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West1_Up3_Down0.blockymodel"
-        },
-        "North0_South0_East0_West1_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West1_Up3_Down1.blockymodel"
-        },
-        "North0_South0_East0_West1_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West1_Up3_Down2.blockymodel"
         },
         "North0_South0_East0_West1_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West1_Up3_Down3.blockymodel"
@@ -166,9 +130,6 @@
         "North0_South0_East0_West2_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West2_Up0_Down3.blockymodel"
         },
-        "North0_South0_East0_West2_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West2_Up1_Down0.blockymodel"
-        },
         "North0_South0_East0_West2_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West2_Up1_Down1.blockymodel"
         },
@@ -178,26 +139,11 @@
         "North0_South0_East0_West2_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West2_Up1_Down3.blockymodel"
         },
-        "North0_South0_East0_West2_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West2_Up2_Down0.blockymodel"
-        },
-        "North0_South0_East0_West2_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West2_Up2_Down1.blockymodel"
-        },
         "North0_South0_East0_West2_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West2_Up2_Down2.blockymodel"
         },
         "North0_South0_East0_West2_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West2_Up2_Down3.blockymodel"
-        },
-        "North0_South0_East0_West2_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West2_Up3_Down0.blockymodel"
-        },
-        "North0_South0_East0_West2_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West2_Up3_Down1.blockymodel"
-        },
-        "North0_South0_East0_West2_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West2_Up3_Down2.blockymodel"
         },
         "North0_South0_East0_West2_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West2_Up3_Down3.blockymodel"
@@ -214,9 +160,6 @@
         "North0_South0_East0_West3_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West3_Up0_Down3.blockymodel"
         },
-        "North0_South0_East0_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West3_Up1_Down0.blockymodel"
-        },
         "North0_South0_East0_West3_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West3_Up1_Down1.blockymodel"
         },
@@ -226,26 +169,11 @@
         "North0_South0_East0_West3_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West3_Up1_Down3.blockymodel"
         },
-        "North0_South0_East0_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West3_Up2_Down0.blockymodel"
-        },
-        "North0_South0_East0_West3_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West3_Up2_Down1.blockymodel"
-        },
         "North0_South0_East0_West3_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West3_Up2_Down2.blockymodel"
         },
         "North0_South0_East0_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West3_Up2_Down3.blockymodel"
-        },
-        "North0_South0_East0_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West3_Up3_Down0.blockymodel"
-        },
-        "North0_South0_East0_West3_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West3_Up3_Down1.blockymodel"
-        },
-        "North0_South0_East0_West3_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West3_Up3_Down2.blockymodel"
         },
         "North0_South0_East0_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East0_West3_Up3_Down3.blockymodel"
@@ -262,9 +190,6 @@
         "North0_South0_East1_West1_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West1_Up0_Down3.blockymodel"
         },
-        "North0_South0_East1_West1_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West1_Up1_Down0.blockymodel"
-        },
         "North0_South0_East1_West1_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West1_Up1_Down1.blockymodel"
         },
@@ -274,26 +199,11 @@
         "North0_South0_East1_West1_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West1_Up1_Down3.blockymodel"
         },
-        "North0_South0_East1_West1_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West1_Up2_Down0.blockymodel"
-        },
-        "North0_South0_East1_West1_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West1_Up2_Down1.blockymodel"
-        },
         "North0_South0_East1_West1_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West1_Up2_Down2.blockymodel"
         },
         "North0_South0_East1_West1_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West1_Up2_Down3.blockymodel"
-        },
-        "North0_South0_East1_West1_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West1_Up3_Down0.blockymodel"
-        },
-        "North0_South0_East1_West1_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West1_Up3_Down1.blockymodel"
-        },
-        "North0_South0_East1_West1_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West1_Up3_Down2.blockymodel"
         },
         "North0_South0_East1_West1_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West1_Up3_Down3.blockymodel"
@@ -310,9 +220,6 @@
         "North0_South0_East1_West2_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West2_Up0_Down3.blockymodel"
         },
-        "North0_South0_East1_West2_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West2_Up1_Down0.blockymodel"
-        },
         "North0_South0_East1_West2_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West2_Up1_Down1.blockymodel"
         },
@@ -322,26 +229,11 @@
         "North0_South0_East1_West2_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West2_Up1_Down3.blockymodel"
         },
-        "North0_South0_East1_West2_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West2_Up2_Down0.blockymodel"
-        },
-        "North0_South0_East1_West2_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West2_Up2_Down1.blockymodel"
-        },
         "North0_South0_East1_West2_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West2_Up2_Down2.blockymodel"
         },
         "North0_South0_East1_West2_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West2_Up2_Down3.blockymodel"
-        },
-        "North0_South0_East1_West2_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West2_Up3_Down0.blockymodel"
-        },
-        "North0_South0_East1_West2_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West2_Up3_Down1.blockymodel"
-        },
-        "North0_South0_East1_West2_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West2_Up3_Down2.blockymodel"
         },
         "North0_South0_East1_West2_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West2_Up3_Down3.blockymodel"
@@ -358,9 +250,6 @@
         "North0_South0_East1_West3_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West3_Up0_Down3.blockymodel"
         },
-        "North0_South0_East1_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West3_Up1_Down0.blockymodel"
-        },
         "North0_South0_East1_West3_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West3_Up1_Down1.blockymodel"
         },
@@ -370,26 +259,11 @@
         "North0_South0_East1_West3_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West3_Up1_Down3.blockymodel"
         },
-        "North0_South0_East1_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West3_Up2_Down0.blockymodel"
-        },
-        "North0_South0_East1_West3_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West3_Up2_Down1.blockymodel"
-        },
         "North0_South0_East1_West3_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West3_Up2_Down2.blockymodel"
         },
         "North0_South0_East1_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West3_Up2_Down3.blockymodel"
-        },
-        "North0_South0_East1_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West3_Up3_Down0.blockymodel"
-        },
-        "North0_South0_East1_West3_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West3_Up3_Down1.blockymodel"
-        },
-        "North0_South0_East1_West3_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West3_Up3_Down2.blockymodel"
         },
         "North0_South0_East1_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East1_West3_Up3_Down3.blockymodel"
@@ -406,9 +280,6 @@
         "North0_South0_East2_West2_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West2_Up0_Down3.blockymodel"
         },
-        "North0_South0_East2_West2_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West2_Up1_Down0.blockymodel"
-        },
         "North0_South0_East2_West2_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West2_Up1_Down1.blockymodel"
         },
@@ -418,26 +289,11 @@
         "North0_South0_East2_West2_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West2_Up1_Down3.blockymodel"
         },
-        "North0_South0_East2_West2_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West2_Up2_Down0.blockymodel"
-        },
-        "North0_South0_East2_West2_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West2_Up2_Down1.blockymodel"
-        },
         "North0_South0_East2_West2_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West2_Up2_Down2.blockymodel"
         },
         "North0_South0_East2_West2_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West2_Up2_Down3.blockymodel"
-        },
-        "North0_South0_East2_West2_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West2_Up3_Down0.blockymodel"
-        },
-        "North0_South0_East2_West2_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West2_Up3_Down1.blockymodel"
-        },
-        "North0_South0_East2_West2_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West2_Up3_Down2.blockymodel"
         },
         "North0_South0_East2_West2_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West2_Up3_Down3.blockymodel"
@@ -454,9 +310,6 @@
         "North0_South0_East2_West3_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West3_Up0_Down3.blockymodel"
         },
-        "North0_South0_East2_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West3_Up1_Down0.blockymodel"
-        },
         "North0_South0_East2_West3_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West3_Up1_Down1.blockymodel"
         },
@@ -466,26 +319,11 @@
         "North0_South0_East2_West3_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West3_Up1_Down3.blockymodel"
         },
-        "North0_South0_East2_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West3_Up2_Down0.blockymodel"
-        },
-        "North0_South0_East2_West3_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West3_Up2_Down1.blockymodel"
-        },
         "North0_South0_East2_West3_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West3_Up2_Down2.blockymodel"
         },
         "North0_South0_East2_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West3_Up2_Down3.blockymodel"
-        },
-        "North0_South0_East2_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West3_Up3_Down0.blockymodel"
-        },
-        "North0_South0_East2_West3_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West3_Up3_Down1.blockymodel"
-        },
-        "North0_South0_East2_West3_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West3_Up3_Down2.blockymodel"
         },
         "North0_South0_East2_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East2_West3_Up3_Down3.blockymodel"
@@ -502,9 +340,6 @@
         "North0_South0_East3_West3_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East3_West3_Up0_Down3.blockymodel"
         },
-        "North0_South0_East3_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East3_West3_Up1_Down0.blockymodel"
-        },
         "North0_South0_East3_West3_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East3_West3_Up1_Down1.blockymodel"
         },
@@ -514,32 +349,14 @@
         "North0_South0_East3_West3_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East3_West3_Up1_Down3.blockymodel"
         },
-        "North0_South0_East3_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East3_West3_Up2_Down0.blockymodel"
-        },
-        "North0_South0_East3_West3_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East3_West3_Up2_Down1.blockymodel"
-        },
         "North0_South0_East3_West3_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East3_West3_Up2_Down2.blockymodel"
         },
         "North0_South0_East3_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East3_West3_Up2_Down3.blockymodel"
         },
-        "North0_South0_East3_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East3_West3_Up3_Down0.blockymodel"
-        },
-        "North0_South0_East3_West3_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East3_West3_Up3_Down1.blockymodel"
-        },
-        "North0_South0_East3_West3_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East3_West3_Up3_Down2.blockymodel"
-        },
         "North0_South0_East3_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South0_East3_West3_Up3_Down3.blockymodel"
-        },
-        "North0_South1_East0_West1_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East0_West1_Up0_Down0.blockymodel"
         },
         "North0_South1_East0_West1_Up0_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East0_West1_Up0_Down1.blockymodel"
@@ -549,9 +366,6 @@
         },
         "North0_South1_East0_West1_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East0_West1_Up0_Down3.blockymodel"
-        },
-        "North0_South1_East0_West1_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East0_West1_Up1_Down0.blockymodel"
         },
         "North0_South1_East0_West1_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East0_West1_Up1_Down1.blockymodel"
@@ -586,9 +400,6 @@
         "North0_South1_East0_West1_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East0_West1_Up3_Down3.blockymodel"
         },
-        "North0_South1_East0_West2_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East0_West2_Up0_Down0.blockymodel"
-        },
         "North0_South1_East0_West2_Up0_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East0_West2_Up0_Down1.blockymodel"
         },
@@ -597,9 +408,6 @@
         },
         "North0_South1_East0_West2_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East0_West2_Up0_Down3.blockymodel"
-        },
-        "North0_South1_East0_West2_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East0_West2_Up1_Down0.blockymodel"
         },
         "North0_South1_East0_West2_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East0_West2_Up1_Down1.blockymodel"
@@ -634,9 +442,6 @@
         "North0_South1_East0_West2_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East0_West2_Up3_Down3.blockymodel"
         },
-        "North0_South1_East0_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East0_West3_Up0_Down0.blockymodel"
-        },
         "North0_South1_East0_West3_Up0_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East0_West3_Up0_Down1.blockymodel"
         },
@@ -645,9 +450,6 @@
         },
         "North0_South1_East0_West3_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East0_West3_Up0_Down3.blockymodel"
-        },
-        "North0_South1_East0_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East0_West3_Up1_Down0.blockymodel"
         },
         "North0_South1_East0_West3_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East0_West3_Up1_Down1.blockymodel"
@@ -682,9 +484,6 @@
         "North0_South1_East0_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East0_West3_Up3_Down3.blockymodel"
         },
-        "North0_South1_East1_West1_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West1_Up0_Down0.blockymodel"
-        },
         "North0_South1_East1_West1_Up0_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West1_Up0_Down1.blockymodel"
         },
@@ -693,9 +492,6 @@
         },
         "North0_South1_East1_West1_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West1_Up0_Down3.blockymodel"
-        },
-        "North0_South1_East1_West1_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West1_Up1_Down0.blockymodel"
         },
         "North0_South1_East1_West1_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West1_Up1_Down1.blockymodel"
@@ -706,32 +502,14 @@
         "North0_South1_East1_West1_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West1_Up1_Down3.blockymodel"
         },
-        "North0_South1_East1_West1_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West1_Up2_Down0.blockymodel"
-        },
-        "North0_South1_East1_West1_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West1_Up2_Down1.blockymodel"
-        },
         "North0_South1_East1_West1_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West1_Up2_Down2.blockymodel"
         },
         "North0_South1_East1_West1_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West1_Up2_Down3.blockymodel"
         },
-        "North0_South1_East1_West1_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West1_Up3_Down0.blockymodel"
-        },
-        "North0_South1_East1_West1_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West1_Up3_Down1.blockymodel"
-        },
-        "North0_South1_East1_West1_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West1_Up3_Down2.blockymodel"
-        },
         "North0_South1_East1_West1_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West1_Up3_Down3.blockymodel"
-        },
-        "North0_South1_East1_West2_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West2_Up0_Down0.blockymodel"
         },
         "North0_South1_East1_West2_Up0_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West2_Up0_Down1.blockymodel"
@@ -741,9 +519,6 @@
         },
         "North0_South1_East1_West2_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West2_Up0_Down3.blockymodel"
-        },
-        "North0_South1_East1_West2_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West2_Up1_Down0.blockymodel"
         },
         "North0_South1_East1_West2_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West2_Up1_Down1.blockymodel"
@@ -778,9 +553,6 @@
         "North0_South1_East1_West2_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West2_Up3_Down3.blockymodel"
         },
-        "North0_South1_East1_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West3_Up0_Down0.blockymodel"
-        },
         "North0_South1_East1_West3_Up0_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West3_Up0_Down1.blockymodel"
         },
@@ -789,9 +561,6 @@
         },
         "North0_South1_East1_West3_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West3_Up0_Down3.blockymodel"
-        },
-        "North0_South1_East1_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West3_Up1_Down0.blockymodel"
         },
         "North0_South1_East1_West3_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West3_Up1_Down1.blockymodel"
@@ -826,105 +595,6 @@
         "North0_South1_East1_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East1_West3_Up3_Down3.blockymodel"
         },
-        "North0_South1_East2_West0_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West0_Up0_Down0.blockymodel"
-        },
-        "North0_South1_East2_West0_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West0_Up0_Down1.blockymodel"
-        },
-        "North0_South1_East2_West0_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West0_Up0_Down2.blockymodel"
-        },
-        "North0_South1_East2_West0_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West0_Up0_Down3.blockymodel"
-        },
-        "North0_South1_East2_West0_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West0_Up1_Down0.blockymodel"
-        },
-        "North0_South1_East2_West0_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West0_Up1_Down1.blockymodel"
-        },
-        "North0_South1_East2_West0_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West0_Up1_Down2.blockymodel"
-        },
-        "North0_South1_East2_West0_Up1_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West0_Up1_Down3.blockymodel"
-        },
-        "North0_South1_East2_West0_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West0_Up2_Down0.blockymodel"
-        },
-        "North0_South1_East2_West0_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West0_Up2_Down1.blockymodel"
-        },
-        "North0_South1_East2_West0_Up2_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West0_Up2_Down2.blockymodel"
-        },
-        "North0_South1_East2_West0_Up2_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West0_Up2_Down3.blockymodel"
-        },
-        "North0_South1_East2_West0_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West0_Up3_Down0.blockymodel"
-        },
-        "North0_South1_East2_West0_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West0_Up3_Down1.blockymodel"
-        },
-        "North0_South1_East2_West0_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West0_Up3_Down2.blockymodel"
-        },
-        "North0_South1_East2_West0_Up3_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West0_Up3_Down3.blockymodel"
-        },
-        "North0_South1_East2_West1_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West1_Up0_Down0.blockymodel"
-        },
-        "North0_South1_East2_West1_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West1_Up0_Down1.blockymodel"
-        },
-        "North0_South1_East2_West1_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West1_Up0_Down2.blockymodel"
-        },
-        "North0_South1_East2_West1_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West1_Up0_Down3.blockymodel"
-        },
-        "North0_South1_East2_West1_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West1_Up1_Down0.blockymodel"
-        },
-        "North0_South1_East2_West1_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West1_Up1_Down1.blockymodel"
-        },
-        "North0_South1_East2_West1_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West1_Up1_Down2.blockymodel"
-        },
-        "North0_South1_East2_West1_Up1_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West1_Up1_Down3.blockymodel"
-        },
-        "North0_South1_East2_West1_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West1_Up2_Down0.blockymodel"
-        },
-        "North0_South1_East2_West1_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West1_Up2_Down1.blockymodel"
-        },
-        "North0_South1_East2_West1_Up2_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West1_Up2_Down2.blockymodel"
-        },
-        "North0_South1_East2_West1_Up2_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West1_Up2_Down3.blockymodel"
-        },
-        "North0_South1_East2_West1_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West1_Up3_Down0.blockymodel"
-        },
-        "North0_South1_East2_West1_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West1_Up3_Down1.blockymodel"
-        },
-        "North0_South1_East2_West1_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West1_Up3_Down2.blockymodel"
-        },
-        "North0_South1_East2_West1_Up3_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West1_Up3_Down3.blockymodel"
-        },
-        "North0_South1_East2_West2_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West2_Up0_Down0.blockymodel"
-        },
         "North0_South1_East2_West2_Up0_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West2_Up0_Down1.blockymodel"
         },
@@ -933,9 +603,6 @@
         },
         "North0_South1_East2_West2_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West2_Up0_Down3.blockymodel"
-        },
-        "North0_South1_East2_West2_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West2_Up1_Down0.blockymodel"
         },
         "North0_South1_East2_West2_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West2_Up1_Down1.blockymodel"
@@ -946,32 +613,14 @@
         "North0_South1_East2_West2_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West2_Up1_Down3.blockymodel"
         },
-        "North0_South1_East2_West2_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West2_Up2_Down0.blockymodel"
-        },
-        "North0_South1_East2_West2_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West2_Up2_Down1.blockymodel"
-        },
         "North0_South1_East2_West2_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West2_Up2_Down2.blockymodel"
         },
         "North0_South1_East2_West2_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West2_Up2_Down3.blockymodel"
         },
-        "North0_South1_East2_West2_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West2_Up3_Down0.blockymodel"
-        },
-        "North0_South1_East2_West2_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West2_Up3_Down1.blockymodel"
-        },
-        "North0_South1_East2_West2_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West2_Up3_Down2.blockymodel"
-        },
         "North0_South1_East2_West2_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West2_Up3_Down3.blockymodel"
-        },
-        "North0_South1_East2_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West3_Up0_Down0.blockymodel"
         },
         "North0_South1_East2_West3_Up0_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West3_Up0_Down1.blockymodel"
@@ -981,9 +630,6 @@
         },
         "North0_South1_East2_West3_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West3_Up0_Down3.blockymodel"
-        },
-        "North0_South1_East2_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West3_Up1_Down0.blockymodel"
         },
         "North0_South1_East2_West3_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West3_Up1_Down1.blockymodel"
@@ -1018,153 +664,6 @@
         "North0_South1_East2_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East2_West3_Up3_Down3.blockymodel"
         },
-        "North0_South1_East3_West0_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West0_Up0_Down0.blockymodel"
-        },
-        "North0_South1_East3_West0_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West0_Up0_Down1.blockymodel"
-        },
-        "North0_South1_East3_West0_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West0_Up0_Down2.blockymodel"
-        },
-        "North0_South1_East3_West0_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West0_Up0_Down3.blockymodel"
-        },
-        "North0_South1_East3_West0_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West0_Up1_Down0.blockymodel"
-        },
-        "North0_South1_East3_West0_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West0_Up1_Down1.blockymodel"
-        },
-        "North0_South1_East3_West0_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West0_Up1_Down2.blockymodel"
-        },
-        "North0_South1_East3_West0_Up1_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West0_Up1_Down3.blockymodel"
-        },
-        "North0_South1_East3_West0_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West0_Up2_Down0.blockymodel"
-        },
-        "North0_South1_East3_West0_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West0_Up2_Down1.blockymodel"
-        },
-        "North0_South1_East3_West0_Up2_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West0_Up2_Down2.blockymodel"
-        },
-        "North0_South1_East3_West0_Up2_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West0_Up2_Down3.blockymodel"
-        },
-        "North0_South1_East3_West0_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West0_Up3_Down0.blockymodel"
-        },
-        "North0_South1_East3_West0_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West0_Up3_Down1.blockymodel"
-        },
-        "North0_South1_East3_West0_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West0_Up3_Down2.blockymodel"
-        },
-        "North0_South1_East3_West0_Up3_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West0_Up3_Down3.blockymodel"
-        },
-        "North0_South1_East3_West1_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West1_Up0_Down0.blockymodel"
-        },
-        "North0_South1_East3_West1_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West1_Up0_Down1.blockymodel"
-        },
-        "North0_South1_East3_West1_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West1_Up0_Down2.blockymodel"
-        },
-        "North0_South1_East3_West1_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West1_Up0_Down3.blockymodel"
-        },
-        "North0_South1_East3_West1_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West1_Up1_Down0.blockymodel"
-        },
-        "North0_South1_East3_West1_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West1_Up1_Down1.blockymodel"
-        },
-        "North0_South1_East3_West1_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West1_Up1_Down2.blockymodel"
-        },
-        "North0_South1_East3_West1_Up1_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West1_Up1_Down3.blockymodel"
-        },
-        "North0_South1_East3_West1_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West1_Up2_Down0.blockymodel"
-        },
-        "North0_South1_East3_West1_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West1_Up2_Down1.blockymodel"
-        },
-        "North0_South1_East3_West1_Up2_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West1_Up2_Down2.blockymodel"
-        },
-        "North0_South1_East3_West1_Up2_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West1_Up2_Down3.blockymodel"
-        },
-        "North0_South1_East3_West1_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West1_Up3_Down0.blockymodel"
-        },
-        "North0_South1_East3_West1_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West1_Up3_Down1.blockymodel"
-        },
-        "North0_South1_East3_West1_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West1_Up3_Down2.blockymodel"
-        },
-        "North0_South1_East3_West1_Up3_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West1_Up3_Down3.blockymodel"
-        },
-        "North0_South1_East3_West2_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West2_Up0_Down0.blockymodel"
-        },
-        "North0_South1_East3_West2_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West2_Up0_Down1.blockymodel"
-        },
-        "North0_South1_East3_West2_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West2_Up0_Down2.blockymodel"
-        },
-        "North0_South1_East3_West2_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West2_Up0_Down3.blockymodel"
-        },
-        "North0_South1_East3_West2_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West2_Up1_Down0.blockymodel"
-        },
-        "North0_South1_East3_West2_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West2_Up1_Down1.blockymodel"
-        },
-        "North0_South1_East3_West2_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West2_Up1_Down2.blockymodel"
-        },
-        "North0_South1_East3_West2_Up1_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West2_Up1_Down3.blockymodel"
-        },
-        "North0_South1_East3_West2_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West2_Up2_Down0.blockymodel"
-        },
-        "North0_South1_East3_West2_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West2_Up2_Down1.blockymodel"
-        },
-        "North0_South1_East3_West2_Up2_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West2_Up2_Down2.blockymodel"
-        },
-        "North0_South1_East3_West2_Up2_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West2_Up2_Down3.blockymodel"
-        },
-        "North0_South1_East3_West2_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West2_Up3_Down0.blockymodel"
-        },
-        "North0_South1_East3_West2_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West2_Up3_Down1.blockymodel"
-        },
-        "North0_South1_East3_West2_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West2_Up3_Down2.blockymodel"
-        },
-        "North0_South1_East3_West2_Up3_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West2_Up3_Down3.blockymodel"
-        },
-        "North0_South1_East3_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West3_Up0_Down0.blockymodel"
-        },
         "North0_South1_East3_West3_Up0_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West3_Up0_Down1.blockymodel"
         },
@@ -1173,9 +672,6 @@
         },
         "North0_South1_East3_West3_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West3_Up0_Down3.blockymodel"
-        },
-        "North0_South1_East3_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West3_Up1_Down0.blockymodel"
         },
         "North0_South1_East3_West3_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West3_Up1_Down1.blockymodel"
@@ -1186,44 +682,20 @@
         "North0_South1_East3_West3_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West3_Up1_Down3.blockymodel"
         },
-        "North0_South1_East3_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West3_Up2_Down0.blockymodel"
-        },
-        "North0_South1_East3_West3_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West3_Up2_Down1.blockymodel"
-        },
         "North0_South1_East3_West3_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West3_Up2_Down2.blockymodel"
         },
         "North0_South1_East3_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West3_Up2_Down3.blockymodel"
         },
-        "North0_South1_East3_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West3_Up3_Down0.blockymodel"
-        },
-        "North0_South1_East3_West3_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West3_Up3_Down1.blockymodel"
-        },
-        "North0_South1_East3_West3_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West3_Up3_Down2.blockymodel"
-        },
         "North0_South1_East3_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South1_East3_West3_Up3_Down3.blockymodel"
-        },
-        "North0_South2_East0_West2_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East0_West2_Up0_Down0.blockymodel"
-        },
-        "North0_South2_East0_West2_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East0_West2_Up0_Down1.blockymodel"
         },
         "North0_South2_East0_West2_Up0_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East0_West2_Up0_Down2.blockymodel"
         },
         "North0_South2_East0_West2_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East0_West2_Up0_Down3.blockymodel"
-        },
-        "North0_South2_East0_West2_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East0_West2_Up1_Down0.blockymodel"
         },
         "North0_South2_East0_West2_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East0_West2_Up1_Down1.blockymodel"
@@ -1233,9 +705,6 @@
         },
         "North0_South2_East0_West2_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East0_West2_Up1_Down3.blockymodel"
-        },
-        "North0_South2_East0_West2_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East0_West2_Up2_Down0.blockymodel"
         },
         "North0_South2_East0_West2_Up2_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East0_West2_Up2_Down1.blockymodel"
@@ -1258,20 +727,11 @@
         "North0_South2_East0_West2_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East0_West2_Up3_Down3.blockymodel"
         },
-        "North0_South2_East0_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East0_West3_Up0_Down0.blockymodel"
-        },
-        "North0_South2_East0_West3_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East0_West3_Up0_Down1.blockymodel"
-        },
         "North0_South2_East0_West3_Up0_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East0_West3_Up0_Down2.blockymodel"
         },
         "North0_South2_East0_West3_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East0_West3_Up0_Down3.blockymodel"
-        },
-        "North0_South2_East0_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East0_West3_Up1_Down0.blockymodel"
         },
         "North0_South2_East0_West3_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East0_West3_Up1_Down1.blockymodel"
@@ -1281,9 +741,6 @@
         },
         "North0_South2_East0_West3_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East0_West3_Up1_Down3.blockymodel"
-        },
-        "North0_South2_East0_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East0_West3_Up2_Down0.blockymodel"
         },
         "North0_South2_East0_West3_Up2_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East0_West3_Up2_Down1.blockymodel"
@@ -1306,20 +763,11 @@
         "North0_South2_East0_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East0_West3_Up3_Down3.blockymodel"
         },
-        "North0_South2_East1_West1_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West1_Up0_Down0.blockymodel"
-        },
-        "North0_South2_East1_West1_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West1_Up0_Down1.blockymodel"
-        },
         "North0_South2_East1_West1_Up0_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West1_Up0_Down2.blockymodel"
         },
         "North0_South2_East1_West1_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West1_Up0_Down3.blockymodel"
-        },
-        "North0_South2_East1_West1_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West1_Up1_Down0.blockymodel"
         },
         "North0_South2_East1_West1_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West1_Up1_Down1.blockymodel"
@@ -1330,44 +778,20 @@
         "North0_South2_East1_West1_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West1_Up1_Down3.blockymodel"
         },
-        "North0_South2_East1_West1_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West1_Up2_Down0.blockymodel"
-        },
-        "North0_South2_East1_West1_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West1_Up2_Down1.blockymodel"
-        },
         "North0_South2_East1_West1_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West1_Up2_Down2.blockymodel"
         },
         "North0_South2_East1_West1_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West1_Up2_Down3.blockymodel"
         },
-        "North0_South2_East1_West1_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West1_Up3_Down0.blockymodel"
-        },
-        "North0_South2_East1_West1_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West1_Up3_Down1.blockymodel"
-        },
-        "North0_South2_East1_West1_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West1_Up3_Down2.blockymodel"
-        },
         "North0_South2_East1_West1_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West1_Up3_Down3.blockymodel"
-        },
-        "North0_South2_East1_West2_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West2_Up0_Down0.blockymodel"
-        },
-        "North0_South2_East1_West2_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West2_Up0_Down1.blockymodel"
         },
         "North0_South2_East1_West2_Up0_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West2_Up0_Down2.blockymodel"
         },
         "North0_South2_East1_West2_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West2_Up0_Down3.blockymodel"
-        },
-        "North0_South2_East1_West2_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West2_Up1_Down0.blockymodel"
         },
         "North0_South2_East1_West2_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West2_Up1_Down1.blockymodel"
@@ -1377,9 +801,6 @@
         },
         "North0_South2_East1_West2_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West2_Up1_Down3.blockymodel"
-        },
-        "North0_South2_East1_West2_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West2_Up2_Down0.blockymodel"
         },
         "North0_South2_East1_West2_Up2_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West2_Up2_Down1.blockymodel"
@@ -1402,20 +823,11 @@
         "North0_South2_East1_West2_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West2_Up3_Down3.blockymodel"
         },
-        "North0_South2_East1_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West3_Up0_Down0.blockymodel"
-        },
-        "North0_South2_East1_West3_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West3_Up0_Down1.blockymodel"
-        },
         "North0_South2_East1_West3_Up0_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West3_Up0_Down2.blockymodel"
         },
         "North0_South2_East1_West3_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West3_Up0_Down3.blockymodel"
-        },
-        "North0_South2_East1_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West3_Up1_Down0.blockymodel"
         },
         "North0_South2_East1_West3_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West3_Up1_Down1.blockymodel"
@@ -1425,9 +837,6 @@
         },
         "North0_South2_East1_West3_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West3_Up1_Down3.blockymodel"
-        },
-        "North0_South2_East1_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West3_Up2_Down0.blockymodel"
         },
         "North0_South2_East1_West3_Up2_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West3_Up2_Down1.blockymodel"
@@ -1450,68 +859,11 @@
         "North0_South2_East1_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East1_West3_Up3_Down3.blockymodel"
         },
-        "North0_South2_East2_West1_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West1_Up0_Down0.blockymodel"
-        },
-        "North0_South2_East2_West1_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West1_Up0_Down1.blockymodel"
-        },
-        "North0_South2_East2_West1_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West1_Up0_Down2.blockymodel"
-        },
-        "North0_South2_East2_West1_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West1_Up0_Down3.blockymodel"
-        },
-        "North0_South2_East2_West1_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West1_Up1_Down0.blockymodel"
-        },
-        "North0_South2_East2_West1_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West1_Up1_Down1.blockymodel"
-        },
-        "North0_South2_East2_West1_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West1_Up1_Down2.blockymodel"
-        },
-        "North0_South2_East2_West1_Up1_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West1_Up1_Down3.blockymodel"
-        },
-        "North0_South2_East2_West1_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West1_Up2_Down0.blockymodel"
-        },
-        "North0_South2_East2_West1_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West1_Up2_Down1.blockymodel"
-        },
-        "North0_South2_East2_West1_Up2_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West1_Up2_Down2.blockymodel"
-        },
-        "North0_South2_East2_West1_Up2_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West1_Up2_Down3.blockymodel"
-        },
-        "North0_South2_East2_West1_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West1_Up3_Down0.blockymodel"
-        },
-        "North0_South2_East2_West1_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West1_Up3_Down1.blockymodel"
-        },
-        "North0_South2_East2_West1_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West1_Up3_Down2.blockymodel"
-        },
-        "North0_South2_East2_West1_Up3_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West1_Up3_Down3.blockymodel"
-        },
-        "North0_South2_East2_West2_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West2_Up0_Down0.blockymodel"
-        },
-        "North0_South2_East2_West2_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West2_Up0_Down1.blockymodel"
-        },
         "North0_South2_East2_West2_Up0_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West2_Up0_Down2.blockymodel"
         },
         "North0_South2_East2_West2_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West2_Up0_Down3.blockymodel"
-        },
-        "North0_South2_East2_West2_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West2_Up1_Down0.blockymodel"
         },
         "North0_South2_East2_West2_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West2_Up1_Down1.blockymodel"
@@ -1522,44 +874,20 @@
         "North0_South2_East2_West2_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West2_Up1_Down3.blockymodel"
         },
-        "North0_South2_East2_West2_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West2_Up2_Down0.blockymodel"
-        },
-        "North0_South2_East2_West2_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West2_Up2_Down1.blockymodel"
-        },
         "North0_South2_East2_West2_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West2_Up2_Down2.blockymodel"
         },
         "North0_South2_East2_West2_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West2_Up2_Down3.blockymodel"
         },
-        "North0_South2_East2_West2_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West2_Up3_Down0.blockymodel"
-        },
-        "North0_South2_East2_West2_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West2_Up3_Down1.blockymodel"
-        },
-        "North0_South2_East2_West2_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West2_Up3_Down2.blockymodel"
-        },
         "North0_South2_East2_West2_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West2_Up3_Down3.blockymodel"
-        },
-        "North0_South2_East2_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West3_Up0_Down0.blockymodel"
-        },
-        "North0_South2_East2_West3_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West3_Up0_Down1.blockymodel"
         },
         "North0_South2_East2_West3_Up0_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West3_Up0_Down2.blockymodel"
         },
         "North0_South2_East2_West3_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West3_Up0_Down3.blockymodel"
-        },
-        "North0_South2_East2_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West3_Up1_Down0.blockymodel"
         },
         "North0_South2_East2_West3_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West3_Up1_Down1.blockymodel"
@@ -1569,9 +897,6 @@
         },
         "North0_South2_East2_West3_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West3_Up1_Down3.blockymodel"
-        },
-        "North0_South2_East2_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West3_Up2_Down0.blockymodel"
         },
         "North0_South2_East2_West3_Up2_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West3_Up2_Down1.blockymodel"
@@ -1594,164 +919,11 @@
         "North0_South2_East2_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East2_West3_Up3_Down3.blockymodel"
         },
-        "North0_South2_East3_West0_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West0_Up0_Down0.blockymodel"
-        },
-        "North0_South2_East3_West0_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West0_Up0_Down1.blockymodel"
-        },
-        "North0_South2_East3_West0_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West0_Up0_Down2.blockymodel"
-        },
-        "North0_South2_East3_West0_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West0_Up0_Down3.blockymodel"
-        },
-        "North0_South2_East3_West0_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West0_Up1_Down0.blockymodel"
-        },
-        "North0_South2_East3_West0_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West0_Up1_Down1.blockymodel"
-        },
-        "North0_South2_East3_West0_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West0_Up1_Down2.blockymodel"
-        },
-        "North0_South2_East3_West0_Up1_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West0_Up1_Down3.blockymodel"
-        },
-        "North0_South2_East3_West0_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West0_Up2_Down0.blockymodel"
-        },
-        "North0_South2_East3_West0_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West0_Up2_Down1.blockymodel"
-        },
-        "North0_South2_East3_West0_Up2_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West0_Up2_Down2.blockymodel"
-        },
-        "North0_South2_East3_West0_Up2_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West0_Up2_Down3.blockymodel"
-        },
-        "North0_South2_East3_West0_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West0_Up3_Down0.blockymodel"
-        },
-        "North0_South2_East3_West0_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West0_Up3_Down1.blockymodel"
-        },
-        "North0_South2_East3_West0_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West0_Up3_Down2.blockymodel"
-        },
-        "North0_South2_East3_West0_Up3_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West0_Up3_Down3.blockymodel"
-        },
-        "North0_South2_East3_West1_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West1_Up0_Down0.blockymodel"
-        },
-        "North0_South2_East3_West1_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West1_Up0_Down1.blockymodel"
-        },
-        "North0_South2_East3_West1_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West1_Up0_Down2.blockymodel"
-        },
-        "North0_South2_East3_West1_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West1_Up0_Down3.blockymodel"
-        },
-        "North0_South2_East3_West1_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West1_Up1_Down0.blockymodel"
-        },
-        "North0_South2_East3_West1_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West1_Up1_Down1.blockymodel"
-        },
-        "North0_South2_East3_West1_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West1_Up1_Down2.blockymodel"
-        },
-        "North0_South2_East3_West1_Up1_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West1_Up1_Down3.blockymodel"
-        },
-        "North0_South2_East3_West1_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West1_Up2_Down0.blockymodel"
-        },
-        "North0_South2_East3_West1_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West1_Up2_Down1.blockymodel"
-        },
-        "North0_South2_East3_West1_Up2_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West1_Up2_Down2.blockymodel"
-        },
-        "North0_South2_East3_West1_Up2_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West1_Up2_Down3.blockymodel"
-        },
-        "North0_South2_East3_West1_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West1_Up3_Down0.blockymodel"
-        },
-        "North0_South2_East3_West1_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West1_Up3_Down1.blockymodel"
-        },
-        "North0_South2_East3_West1_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West1_Up3_Down2.blockymodel"
-        },
-        "North0_South2_East3_West1_Up3_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West1_Up3_Down3.blockymodel"
-        },
-        "North0_South2_East3_West2_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West2_Up0_Down0.blockymodel"
-        },
-        "North0_South2_East3_West2_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West2_Up0_Down1.blockymodel"
-        },
-        "North0_South2_East3_West2_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West2_Up0_Down2.blockymodel"
-        },
-        "North0_South2_East3_West2_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West2_Up0_Down3.blockymodel"
-        },
-        "North0_South2_East3_West2_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West2_Up1_Down0.blockymodel"
-        },
-        "North0_South2_East3_West2_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West2_Up1_Down1.blockymodel"
-        },
-        "North0_South2_East3_West2_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West2_Up1_Down2.blockymodel"
-        },
-        "North0_South2_East3_West2_Up1_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West2_Up1_Down3.blockymodel"
-        },
-        "North0_South2_East3_West2_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West2_Up2_Down0.blockymodel"
-        },
-        "North0_South2_East3_West2_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West2_Up2_Down1.blockymodel"
-        },
-        "North0_South2_East3_West2_Up2_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West2_Up2_Down2.blockymodel"
-        },
-        "North0_South2_East3_West2_Up2_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West2_Up2_Down3.blockymodel"
-        },
-        "North0_South2_East3_West2_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West2_Up3_Down0.blockymodel"
-        },
-        "North0_South2_East3_West2_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West2_Up3_Down1.blockymodel"
-        },
-        "North0_South2_East3_West2_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West2_Up3_Down2.blockymodel"
-        },
-        "North0_South2_East3_West2_Up3_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West2_Up3_Down3.blockymodel"
-        },
-        "North0_South2_East3_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West3_Up0_Down0.blockymodel"
-        },
-        "North0_South2_East3_West3_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West3_Up0_Down1.blockymodel"
-        },
         "North0_South2_East3_West3_Up0_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West3_Up0_Down2.blockymodel"
         },
         "North0_South2_East3_West3_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West3_Up0_Down3.blockymodel"
-        },
-        "North0_South2_East3_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West3_Up1_Down0.blockymodel"
         },
         "North0_South2_East3_West3_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West3_Up1_Down1.blockymodel"
@@ -1762,44 +934,17 @@
         "North0_South2_East3_West3_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West3_Up1_Down3.blockymodel"
         },
-        "North0_South2_East3_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West3_Up2_Down0.blockymodel"
-        },
-        "North0_South2_East3_West3_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West3_Up2_Down1.blockymodel"
-        },
         "North0_South2_East3_West3_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West3_Up2_Down2.blockymodel"
         },
         "North0_South2_East3_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West3_Up2_Down3.blockymodel"
         },
-        "North0_South2_East3_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West3_Up3_Down0.blockymodel"
-        },
-        "North0_South2_East3_West3_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West3_Up3_Down1.blockymodel"
-        },
-        "North0_South2_East3_West3_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West3_Up3_Down2.blockymodel"
-        },
         "North0_South2_East3_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South2_East3_West3_Up3_Down3.blockymodel"
         },
-        "North0_South3_East0_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East0_West3_Up0_Down0.blockymodel"
-        },
-        "North0_South3_East0_West3_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East0_West3_Up0_Down1.blockymodel"
-        },
-        "North0_South3_East0_West3_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East0_West3_Up0_Down2.blockymodel"
-        },
         "North0_South3_East0_West3_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East0_West3_Up0_Down3.blockymodel"
-        },
-        "North0_South3_East0_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East0_West3_Up1_Down0.blockymodel"
         },
         "North0_South3_East0_West3_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East0_West3_Up1_Down1.blockymodel"
@@ -1810,9 +955,6 @@
         "North0_South3_East0_West3_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East0_West3_Up1_Down3.blockymodel"
         },
-        "North0_South3_East0_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East0_West3_Up2_Down0.blockymodel"
-        },
         "North0_South3_East0_West3_Up2_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East0_West3_Up2_Down1.blockymodel"
         },
@@ -1821,9 +963,6 @@
         },
         "North0_South3_East0_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East0_West3_Up2_Down3.blockymodel"
-        },
-        "North0_South3_East0_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East0_West3_Up3_Down0.blockymodel"
         },
         "North0_South3_East0_West3_Up3_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East0_West3_Up3_Down1.blockymodel"
@@ -1834,20 +973,8 @@
         "North0_South3_East0_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East0_West3_Up3_Down3.blockymodel"
         },
-        "North0_South3_East1_West1_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West1_Up0_Down0.blockymodel"
-        },
-        "North0_South3_East1_West1_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West1_Up0_Down1.blockymodel"
-        },
-        "North0_South3_East1_West1_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West1_Up0_Down2.blockymodel"
-        },
         "North0_South3_East1_West1_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West1_Up0_Down3.blockymodel"
-        },
-        "North0_South3_East1_West1_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West1_Up1_Down0.blockymodel"
         },
         "North0_South3_East1_West1_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West1_Up1_Down1.blockymodel"
@@ -1858,44 +985,17 @@
         "North0_South3_East1_West1_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West1_Up1_Down3.blockymodel"
         },
-        "North0_South3_East1_West1_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West1_Up2_Down0.blockymodel"
-        },
-        "North0_South3_East1_West1_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West1_Up2_Down1.blockymodel"
-        },
         "North0_South3_East1_West1_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West1_Up2_Down2.blockymodel"
         },
         "North0_South3_East1_West1_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West1_Up2_Down3.blockymodel"
         },
-        "North0_South3_East1_West1_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West1_Up3_Down0.blockymodel"
-        },
-        "North0_South3_East1_West1_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West1_Up3_Down1.blockymodel"
-        },
-        "North0_South3_East1_West1_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West1_Up3_Down2.blockymodel"
-        },
         "North0_South3_East1_West1_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West1_Up3_Down3.blockymodel"
         },
-        "North0_South3_East1_West2_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West2_Up0_Down0.blockymodel"
-        },
-        "North0_South3_East1_West2_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West2_Up0_Down1.blockymodel"
-        },
-        "North0_South3_East1_West2_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West2_Up0_Down2.blockymodel"
-        },
         "North0_South3_East1_West2_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West2_Up0_Down3.blockymodel"
-        },
-        "North0_South3_East1_West2_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West2_Up1_Down0.blockymodel"
         },
         "North0_South3_East1_West2_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West2_Up1_Down1.blockymodel"
@@ -1906,9 +1006,6 @@
         "North0_South3_East1_West2_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West2_Up1_Down3.blockymodel"
         },
-        "North0_South3_East1_West2_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West2_Up2_Down0.blockymodel"
-        },
         "North0_South3_East1_West2_Up2_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West2_Up2_Down1.blockymodel"
         },
@@ -1917,9 +1014,6 @@
         },
         "North0_South3_East1_West2_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West2_Up2_Down3.blockymodel"
-        },
-        "North0_South3_East1_West2_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West2_Up3_Down0.blockymodel"
         },
         "North0_South3_East1_West2_Up3_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West2_Up3_Down1.blockymodel"
@@ -1930,20 +1024,8 @@
         "North0_South3_East1_West2_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West2_Up3_Down3.blockymodel"
         },
-        "North0_South3_East1_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West3_Up0_Down0.blockymodel"
-        },
-        "North0_South3_East1_West3_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West3_Up0_Down1.blockymodel"
-        },
-        "North0_South3_East1_West3_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West3_Up0_Down2.blockymodel"
-        },
         "North0_South3_East1_West3_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West3_Up0_Down3.blockymodel"
-        },
-        "North0_South3_East1_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West3_Up1_Down0.blockymodel"
         },
         "North0_South3_East1_West3_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West3_Up1_Down1.blockymodel"
@@ -1954,9 +1036,6 @@
         "North0_South3_East1_West3_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West3_Up1_Down3.blockymodel"
         },
-        "North0_South3_East1_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West3_Up2_Down0.blockymodel"
-        },
         "North0_South3_East1_West3_Up2_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West3_Up2_Down1.blockymodel"
         },
@@ -1965,9 +1044,6 @@
         },
         "North0_South3_East1_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West3_Up2_Down3.blockymodel"
-        },
-        "North0_South3_East1_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West3_Up3_Down0.blockymodel"
         },
         "North0_South3_East1_West3_Up3_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West3_Up3_Down1.blockymodel"
@@ -1978,68 +1054,8 @@
         "North0_South3_East1_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East1_West3_Up3_Down3.blockymodel"
         },
-        "North0_South3_East2_West1_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West1_Up0_Down0.blockymodel"
-        },
-        "North0_South3_East2_West1_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West1_Up0_Down1.blockymodel"
-        },
-        "North0_South3_East2_West1_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West1_Up0_Down2.blockymodel"
-        },
-        "North0_South3_East2_West1_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West1_Up0_Down3.blockymodel"
-        },
-        "North0_South3_East2_West1_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West1_Up1_Down0.blockymodel"
-        },
-        "North0_South3_East2_West1_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West1_Up1_Down1.blockymodel"
-        },
-        "North0_South3_East2_West1_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West1_Up1_Down2.blockymodel"
-        },
-        "North0_South3_East2_West1_Up1_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West1_Up1_Down3.blockymodel"
-        },
-        "North0_South3_East2_West1_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West1_Up2_Down0.blockymodel"
-        },
-        "North0_South3_East2_West1_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West1_Up2_Down1.blockymodel"
-        },
-        "North0_South3_East2_West1_Up2_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West1_Up2_Down2.blockymodel"
-        },
-        "North0_South3_East2_West1_Up2_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West1_Up2_Down3.blockymodel"
-        },
-        "North0_South3_East2_West1_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West1_Up3_Down0.blockymodel"
-        },
-        "North0_South3_East2_West1_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West1_Up3_Down1.blockymodel"
-        },
-        "North0_South3_East2_West1_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West1_Up3_Down2.blockymodel"
-        },
-        "North0_South3_East2_West1_Up3_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West1_Up3_Down3.blockymodel"
-        },
-        "North0_South3_East2_West2_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West2_Up0_Down0.blockymodel"
-        },
-        "North0_South3_East2_West2_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West2_Up0_Down1.blockymodel"
-        },
-        "North0_South3_East2_West2_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West2_Up0_Down2.blockymodel"
-        },
         "North0_South3_East2_West2_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West2_Up0_Down3.blockymodel"
-        },
-        "North0_South3_East2_West2_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West2_Up1_Down0.blockymodel"
         },
         "North0_South3_East2_West2_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West2_Up1_Down1.blockymodel"
@@ -2050,44 +1066,17 @@
         "North0_South3_East2_West2_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West2_Up1_Down3.blockymodel"
         },
-        "North0_South3_East2_West2_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West2_Up2_Down0.blockymodel"
-        },
-        "North0_South3_East2_West2_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West2_Up2_Down1.blockymodel"
-        },
         "North0_South3_East2_West2_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West2_Up2_Down2.blockymodel"
         },
         "North0_South3_East2_West2_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West2_Up2_Down3.blockymodel"
         },
-        "North0_South3_East2_West2_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West2_Up3_Down0.blockymodel"
-        },
-        "North0_South3_East2_West2_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West2_Up3_Down1.blockymodel"
-        },
-        "North0_South3_East2_West2_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West2_Up3_Down2.blockymodel"
-        },
         "North0_South3_East2_West2_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West2_Up3_Down3.blockymodel"
         },
-        "North0_South3_East2_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West3_Up0_Down0.blockymodel"
-        },
-        "North0_South3_East2_West3_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West3_Up0_Down1.blockymodel"
-        },
-        "North0_South3_East2_West3_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West3_Up0_Down2.blockymodel"
-        },
         "North0_South3_East2_West3_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West3_Up0_Down3.blockymodel"
-        },
-        "North0_South3_East2_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West3_Up1_Down0.blockymodel"
         },
         "North0_South3_East2_West3_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West3_Up1_Down1.blockymodel"
@@ -2098,9 +1087,6 @@
         "North0_South3_East2_West3_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West3_Up1_Down3.blockymodel"
         },
-        "North0_South3_East2_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West3_Up2_Down0.blockymodel"
-        },
         "North0_South3_East2_West3_Up2_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West3_Up2_Down1.blockymodel"
         },
@@ -2109,9 +1095,6 @@
         },
         "North0_South3_East2_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West3_Up2_Down3.blockymodel"
-        },
-        "North0_South3_East2_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West3_Up3_Down0.blockymodel"
         },
         "North0_South3_East2_West3_Up3_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West3_Up3_Down1.blockymodel"
@@ -2122,116 +1105,8 @@
         "North0_South3_East2_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East2_West3_Up3_Down3.blockymodel"
         },
-        "North0_South3_East3_West1_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West1_Up0_Down0.blockymodel"
-        },
-        "North0_South3_East3_West1_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West1_Up0_Down1.blockymodel"
-        },
-        "North0_South3_East3_West1_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West1_Up0_Down2.blockymodel"
-        },
-        "North0_South3_East3_West1_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West1_Up0_Down3.blockymodel"
-        },
-        "North0_South3_East3_West1_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West1_Up1_Down0.blockymodel"
-        },
-        "North0_South3_East3_West1_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West1_Up1_Down1.blockymodel"
-        },
-        "North0_South3_East3_West1_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West1_Up1_Down2.blockymodel"
-        },
-        "North0_South3_East3_West1_Up1_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West1_Up1_Down3.blockymodel"
-        },
-        "North0_South3_East3_West1_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West1_Up2_Down0.blockymodel"
-        },
-        "North0_South3_East3_West1_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West1_Up2_Down1.blockymodel"
-        },
-        "North0_South3_East3_West1_Up2_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West1_Up2_Down2.blockymodel"
-        },
-        "North0_South3_East3_West1_Up2_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West1_Up2_Down3.blockymodel"
-        },
-        "North0_South3_East3_West1_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West1_Up3_Down0.blockymodel"
-        },
-        "North0_South3_East3_West1_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West1_Up3_Down1.blockymodel"
-        },
-        "North0_South3_East3_West1_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West1_Up3_Down2.blockymodel"
-        },
-        "North0_South3_East3_West1_Up3_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West1_Up3_Down3.blockymodel"
-        },
-        "North0_South3_East3_West2_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West2_Up0_Down0.blockymodel"
-        },
-        "North0_South3_East3_West2_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West2_Up0_Down1.blockymodel"
-        },
-        "North0_South3_East3_West2_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West2_Up0_Down2.blockymodel"
-        },
-        "North0_South3_East3_West2_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West2_Up0_Down3.blockymodel"
-        },
-        "North0_South3_East3_West2_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West2_Up1_Down0.blockymodel"
-        },
-        "North0_South3_East3_West2_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West2_Up1_Down1.blockymodel"
-        },
-        "North0_South3_East3_West2_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West2_Up1_Down2.blockymodel"
-        },
-        "North0_South3_East3_West2_Up1_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West2_Up1_Down3.blockymodel"
-        },
-        "North0_South3_East3_West2_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West2_Up2_Down0.blockymodel"
-        },
-        "North0_South3_East3_West2_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West2_Up2_Down1.blockymodel"
-        },
-        "North0_South3_East3_West2_Up2_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West2_Up2_Down2.blockymodel"
-        },
-        "North0_South3_East3_West2_Up2_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West2_Up2_Down3.blockymodel"
-        },
-        "North0_South3_East3_West2_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West2_Up3_Down0.blockymodel"
-        },
-        "North0_South3_East3_West2_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West2_Up3_Down1.blockymodel"
-        },
-        "North0_South3_East3_West2_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West2_Up3_Down2.blockymodel"
-        },
-        "North0_South3_East3_West2_Up3_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West2_Up3_Down3.blockymodel"
-        },
-        "North0_South3_East3_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West3_Up0_Down0.blockymodel"
-        },
-        "North0_South3_East3_West3_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West3_Up0_Down1.blockymodel"
-        },
-        "North0_South3_East3_West3_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West3_Up0_Down2.blockymodel"
-        },
         "North0_South3_East3_West3_Up0_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West3_Up0_Down3.blockymodel"
-        },
-        "North0_South3_East3_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West3_Up1_Down0.blockymodel"
         },
         "North0_South3_East3_West3_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West3_Up1_Down1.blockymodel"
@@ -2242,44 +1117,14 @@
         "North0_South3_East3_West3_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West3_Up1_Down3.blockymodel"
         },
-        "North0_South3_East3_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West3_Up2_Down0.blockymodel"
-        },
-        "North0_South3_East3_West3_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West3_Up2_Down1.blockymodel"
-        },
         "North0_South3_East3_West3_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West3_Up2_Down2.blockymodel"
         },
         "North0_South3_East3_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West3_Up2_Down3.blockymodel"
         },
-        "North0_South3_East3_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West3_Up3_Down0.blockymodel"
-        },
-        "North0_South3_East3_West3_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West3_Up3_Down1.blockymodel"
-        },
-        "North0_South3_East3_West3_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West3_Up3_Down2.blockymodel"
-        },
         "North0_South3_East3_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North0_South3_East3_West3_Up3_Down3.blockymodel"
-        },
-        "North1_South1_East1_West1_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West1_Up0_Down0.blockymodel"
-        },
-        "North1_South1_East1_West1_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West1_Up0_Down1.blockymodel"
-        },
-        "North1_South1_East1_West1_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West1_Up0_Down2.blockymodel"
-        },
-        "North1_South1_East1_West1_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West1_Up0_Down3.blockymodel"
-        },
-        "North1_South1_East1_West1_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West1_Up1_Down0.blockymodel"
         },
         "North1_South1_East1_West1_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West1_Up1_Down1.blockymodel"
@@ -2290,44 +1135,14 @@
         "North1_South1_East1_West1_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West1_Up1_Down3.blockymodel"
         },
-        "North1_South1_East1_West1_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West1_Up2_Down0.blockymodel"
-        },
-        "North1_South1_East1_West1_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West1_Up2_Down1.blockymodel"
-        },
         "North1_South1_East1_West1_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West1_Up2_Down2.blockymodel"
         },
         "North1_South1_East1_West1_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West1_Up2_Down3.blockymodel"
         },
-        "North1_South1_East1_West1_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West1_Up3_Down0.blockymodel"
-        },
-        "North1_South1_East1_West1_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West1_Up3_Down1.blockymodel"
-        },
-        "North1_South1_East1_West1_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West1_Up3_Down2.blockymodel"
-        },
         "North1_South1_East1_West1_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West1_Up3_Down3.blockymodel"
-        },
-        "North1_South1_East1_West2_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West2_Up0_Down0.blockymodel"
-        },
-        "North1_South1_East1_West2_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West2_Up0_Down1.blockymodel"
-        },
-        "North1_South1_East1_West2_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West2_Up0_Down2.blockymodel"
-        },
-        "North1_South1_East1_West2_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West2_Up0_Down3.blockymodel"
-        },
-        "North1_South1_East1_West2_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West2_Up1_Down0.blockymodel"
         },
         "North1_South1_East1_West2_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West2_Up1_Down1.blockymodel"
@@ -2338,44 +1153,14 @@
         "North1_South1_East1_West2_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West2_Up1_Down3.blockymodel"
         },
-        "North1_South1_East1_West2_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West2_Up2_Down0.blockymodel"
-        },
-        "North1_South1_East1_West2_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West2_Up2_Down1.blockymodel"
-        },
         "North1_South1_East1_West2_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West2_Up2_Down2.blockymodel"
         },
         "North1_South1_East1_West2_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West2_Up2_Down3.blockymodel"
         },
-        "North1_South1_East1_West2_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West2_Up3_Down0.blockymodel"
-        },
-        "North1_South1_East1_West2_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West2_Up3_Down1.blockymodel"
-        },
-        "North1_South1_East1_West2_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West2_Up3_Down2.blockymodel"
-        },
         "North1_South1_East1_West2_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West2_Up3_Down3.blockymodel"
-        },
-        "North1_South1_East1_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West3_Up0_Down0.blockymodel"
-        },
-        "North1_South1_East1_West3_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West3_Up0_Down1.blockymodel"
-        },
-        "North1_South1_East1_West3_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West3_Up0_Down2.blockymodel"
-        },
-        "North1_South1_East1_West3_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West3_Up0_Down3.blockymodel"
-        },
-        "North1_South1_East1_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West3_Up1_Down0.blockymodel"
         },
         "North1_South1_East1_West3_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West3_Up1_Down1.blockymodel"
@@ -2386,44 +1171,14 @@
         "North1_South1_East1_West3_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West3_Up1_Down3.blockymodel"
         },
-        "North1_South1_East1_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West3_Up2_Down0.blockymodel"
-        },
-        "North1_South1_East1_West3_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West3_Up2_Down1.blockymodel"
-        },
         "North1_South1_East1_West3_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West3_Up2_Down2.blockymodel"
         },
         "North1_South1_East1_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West3_Up2_Down3.blockymodel"
         },
-        "North1_South1_East1_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West3_Up3_Down0.blockymodel"
-        },
-        "North1_South1_East1_West3_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West3_Up3_Down1.blockymodel"
-        },
-        "North1_South1_East1_West3_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West3_Up3_Down2.blockymodel"
-        },
         "North1_South1_East1_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East1_West3_Up3_Down3.blockymodel"
-        },
-        "North1_South1_East2_West2_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West2_Up0_Down0.blockymodel"
-        },
-        "North1_South1_East2_West2_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West2_Up0_Down1.blockymodel"
-        },
-        "North1_South1_East2_West2_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West2_Up0_Down2.blockymodel"
-        },
-        "North1_South1_East2_West2_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West2_Up0_Down3.blockymodel"
-        },
-        "North1_South1_East2_West2_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West2_Up1_Down0.blockymodel"
         },
         "North1_South1_East2_West2_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West2_Up1_Down1.blockymodel"
@@ -2434,44 +1189,14 @@
         "North1_South1_East2_West2_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West2_Up1_Down3.blockymodel"
         },
-        "North1_South1_East2_West2_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West2_Up2_Down0.blockymodel"
-        },
-        "North1_South1_East2_West2_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West2_Up2_Down1.blockymodel"
-        },
         "North1_South1_East2_West2_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West2_Up2_Down2.blockymodel"
         },
         "North1_South1_East2_West2_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West2_Up2_Down3.blockymodel"
         },
-        "North1_South1_East2_West2_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West2_Up3_Down0.blockymodel"
-        },
-        "North1_South1_East2_West2_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West2_Up3_Down1.blockymodel"
-        },
-        "North1_South1_East2_West2_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West2_Up3_Down2.blockymodel"
-        },
         "North1_South1_East2_West2_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West2_Up3_Down3.blockymodel"
-        },
-        "North1_South1_East2_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West3_Up0_Down0.blockymodel"
-        },
-        "North1_South1_East2_West3_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West3_Up0_Down1.blockymodel"
-        },
-        "North1_South1_East2_West3_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West3_Up0_Down2.blockymodel"
-        },
-        "North1_South1_East2_West3_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West3_Up0_Down3.blockymodel"
-        },
-        "North1_South1_East2_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West3_Up1_Down0.blockymodel"
         },
         "North1_South1_East2_West3_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West3_Up1_Down1.blockymodel"
@@ -2482,44 +1207,14 @@
         "North1_South1_East2_West3_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West3_Up1_Down3.blockymodel"
         },
-        "North1_South1_East2_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West3_Up2_Down0.blockymodel"
-        },
-        "North1_South1_East2_West3_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West3_Up2_Down1.blockymodel"
-        },
         "North1_South1_East2_West3_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West3_Up2_Down2.blockymodel"
         },
         "North1_South1_East2_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West3_Up2_Down3.blockymodel"
         },
-        "North1_South1_East2_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West3_Up3_Down0.blockymodel"
-        },
-        "North1_South1_East2_West3_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West3_Up3_Down1.blockymodel"
-        },
-        "North1_South1_East2_West3_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West3_Up3_Down2.blockymodel"
-        },
         "North1_South1_East2_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East2_West3_Up3_Down3.blockymodel"
-        },
-        "North1_South1_East3_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East3_West3_Up0_Down0.blockymodel"
-        },
-        "North1_South1_East3_West3_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East3_West3_Up0_Down1.blockymodel"
-        },
-        "North1_South1_East3_West3_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East3_West3_Up0_Down2.blockymodel"
-        },
-        "North1_South1_East3_West3_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East3_West3_Up0_Down3.blockymodel"
-        },
-        "North1_South1_East3_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East3_West3_Up1_Down0.blockymodel"
         },
         "North1_South1_East3_West3_Up1_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East3_West3_Up1_Down1.blockymodel"
@@ -2530,47 +1225,14 @@
         "North1_South1_East3_West3_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East3_West3_Up1_Down3.blockymodel"
         },
-        "North1_South1_East3_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East3_West3_Up2_Down0.blockymodel"
-        },
-        "North1_South1_East3_West3_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East3_West3_Up2_Down1.blockymodel"
-        },
         "North1_South1_East3_West3_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East3_West3_Up2_Down2.blockymodel"
         },
         "North1_South1_East3_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East3_West3_Up2_Down3.blockymodel"
         },
-        "North1_South1_East3_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East3_West3_Up3_Down0.blockymodel"
-        },
-        "North1_South1_East3_West3_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East3_West3_Up3_Down1.blockymodel"
-        },
-        "North1_South1_East3_West3_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East3_West3_Up3_Down2.blockymodel"
-        },
         "North1_South1_East3_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South1_East3_West3_Up3_Down3.blockymodel"
-        },
-        "North1_South2_East1_West2_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West2_Up0_Down0.blockymodel"
-        },
-        "North1_South2_East1_West2_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West2_Up0_Down1.blockymodel"
-        },
-        "North1_South2_East1_West2_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West2_Up0_Down2.blockymodel"
-        },
-        "North1_South2_East1_West2_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West2_Up0_Down3.blockymodel"
-        },
-        "North1_South2_East1_West2_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West2_Up1_Down0.blockymodel"
-        },
-        "North1_South2_East1_West2_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West2_Up1_Down1.blockymodel"
         },
         "North1_South2_East1_West2_Up1_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West2_Up1_Down2.blockymodel"
@@ -2578,20 +1240,11 @@
         "North1_South2_East1_West2_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West2_Up1_Down3.blockymodel"
         },
-        "North1_South2_East1_West2_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West2_Up2_Down0.blockymodel"
-        },
-        "North1_South2_East1_West2_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West2_Up2_Down1.blockymodel"
-        },
         "North1_South2_East1_West2_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West2_Up2_Down2.blockymodel"
         },
         "North1_South2_East1_West2_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West2_Up2_Down3.blockymodel"
-        },
-        "North1_South2_East1_West2_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West2_Up3_Down0.blockymodel"
         },
         "North1_South2_East1_West2_Up3_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West2_Up3_Down1.blockymodel"
@@ -2602,44 +1255,17 @@
         "North1_South2_East1_West2_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West2_Up3_Down3.blockymodel"
         },
-        "North1_South2_East1_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West3_Up0_Down0.blockymodel"
-        },
-        "North1_South2_East1_West3_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West3_Up0_Down1.blockymodel"
-        },
-        "North1_South2_East1_West3_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West3_Up0_Down2.blockymodel"
-        },
-        "North1_South2_East1_West3_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West3_Up0_Down3.blockymodel"
-        },
-        "North1_South2_East1_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West3_Up1_Down0.blockymodel"
-        },
-        "North1_South2_East1_West3_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West3_Up1_Down1.blockymodel"
-        },
         "North1_South2_East1_West3_Up1_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West3_Up1_Down2.blockymodel"
         },
         "North1_South2_East1_West3_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West3_Up1_Down3.blockymodel"
         },
-        "North1_South2_East1_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West3_Up2_Down0.blockymodel"
-        },
-        "North1_South2_East1_West3_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West3_Up2_Down1.blockymodel"
-        },
         "North1_South2_East1_West3_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West3_Up2_Down2.blockymodel"
         },
         "North1_South2_East1_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West3_Up2_Down3.blockymodel"
-        },
-        "North1_South2_East1_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West3_Up3_Down0.blockymodel"
         },
         "North1_South2_East1_West3_Up3_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West3_Up3_Down1.blockymodel"
@@ -2650,35 +1276,11 @@
         "North1_South2_East1_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East1_West3_Up3_Down3.blockymodel"
         },
-        "North1_South2_East2_West2_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West2_Up0_Down0.blockymodel"
-        },
-        "North1_South2_East2_West2_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West2_Up0_Down1.blockymodel"
-        },
-        "North1_South2_East2_West2_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West2_Up0_Down2.blockymodel"
-        },
-        "North1_South2_East2_West2_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West2_Up0_Down3.blockymodel"
-        },
-        "North1_South2_East2_West2_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West2_Up1_Down0.blockymodel"
-        },
-        "North1_South2_East2_West2_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West2_Up1_Down1.blockymodel"
-        },
         "North1_South2_East2_West2_Up1_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West2_Up1_Down2.blockymodel"
         },
         "North1_South2_East2_West2_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West2_Up1_Down3.blockymodel"
-        },
-        "North1_South2_East2_West2_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West2_Up2_Down0.blockymodel"
-        },
-        "North1_South2_East2_West2_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West2_Up2_Down1.blockymodel"
         },
         "North1_South2_East2_West2_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West2_Up2_Down2.blockymodel"
@@ -2686,35 +1288,8 @@
         "North1_South2_East2_West2_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West2_Up2_Down3.blockymodel"
         },
-        "North1_South2_East2_West2_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West2_Up3_Down0.blockymodel"
-        },
-        "North1_South2_East2_West2_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West2_Up3_Down1.blockymodel"
-        },
-        "North1_South2_East2_West2_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West2_Up3_Down2.blockymodel"
-        },
         "North1_South2_East2_West2_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West2_Up3_Down3.blockymodel"
-        },
-        "North1_South2_East2_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West3_Up0_Down0.blockymodel"
-        },
-        "North1_South2_East2_West3_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West3_Up0_Down1.blockymodel"
-        },
-        "North1_South2_East2_West3_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West3_Up0_Down2.blockymodel"
-        },
-        "North1_South2_East2_West3_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West3_Up0_Down3.blockymodel"
-        },
-        "North1_South2_East2_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West3_Up1_Down0.blockymodel"
-        },
-        "North1_South2_East2_West3_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West3_Up1_Down1.blockymodel"
         },
         "North1_South2_East2_West3_Up1_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West3_Up1_Down2.blockymodel"
@@ -2722,20 +1297,11 @@
         "North1_South2_East2_West3_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West3_Up1_Down3.blockymodel"
         },
-        "North1_South2_East2_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West3_Up2_Down0.blockymodel"
-        },
-        "North1_South2_East2_West3_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West3_Up2_Down1.blockymodel"
-        },
         "North1_South2_East2_West3_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West3_Up2_Down2.blockymodel"
         },
         "North1_South2_East2_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West3_Up2_Down3.blockymodel"
-        },
-        "North1_South2_East2_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West3_Up3_Down0.blockymodel"
         },
         "North1_South2_East2_West3_Up3_Down1": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West3_Up3_Down1.blockymodel"
@@ -2746,131 +1312,11 @@
         "North1_South2_East2_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East2_West3_Up3_Down3.blockymodel"
         },
-        "North1_South2_East3_West1_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West1_Up0_Down0.blockymodel"
-        },
-        "North1_South2_East3_West1_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West1_Up0_Down1.blockymodel"
-        },
-        "North1_South2_East3_West1_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West1_Up0_Down2.blockymodel"
-        },
-        "North1_South2_East3_West1_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West1_Up0_Down3.blockymodel"
-        },
-        "North1_South2_East3_West1_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West1_Up1_Down0.blockymodel"
-        },
-        "North1_South2_East3_West1_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West1_Up1_Down1.blockymodel"
-        },
-        "North1_South2_East3_West1_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West1_Up1_Down2.blockymodel"
-        },
-        "North1_South2_East3_West1_Up1_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West1_Up1_Down3.blockymodel"
-        },
-        "North1_South2_East3_West1_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West1_Up2_Down0.blockymodel"
-        },
-        "North1_South2_East3_West1_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West1_Up2_Down1.blockymodel"
-        },
-        "North1_South2_East3_West1_Up2_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West1_Up2_Down2.blockymodel"
-        },
-        "North1_South2_East3_West1_Up2_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West1_Up2_Down3.blockymodel"
-        },
-        "North1_South2_East3_West1_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West1_Up3_Down0.blockymodel"
-        },
-        "North1_South2_East3_West1_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West1_Up3_Down1.blockymodel"
-        },
-        "North1_South2_East3_West1_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West1_Up3_Down2.blockymodel"
-        },
-        "North1_South2_East3_West1_Up3_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West1_Up3_Down3.blockymodel"
-        },
-        "North1_South2_East3_West2_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West2_Up0_Down0.blockymodel"
-        },
-        "North1_South2_East3_West2_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West2_Up0_Down1.blockymodel"
-        },
-        "North1_South2_East3_West2_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West2_Up0_Down2.blockymodel"
-        },
-        "North1_South2_East3_West2_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West2_Up0_Down3.blockymodel"
-        },
-        "North1_South2_East3_West2_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West2_Up1_Down0.blockymodel"
-        },
-        "North1_South2_East3_West2_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West2_Up1_Down1.blockymodel"
-        },
-        "North1_South2_East3_West2_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West2_Up1_Down2.blockymodel"
-        },
-        "North1_South2_East3_West2_Up1_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West2_Up1_Down3.blockymodel"
-        },
-        "North1_South2_East3_West2_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West2_Up2_Down0.blockymodel"
-        },
-        "North1_South2_East3_West2_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West2_Up2_Down1.blockymodel"
-        },
-        "North1_South2_East3_West2_Up2_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West2_Up2_Down2.blockymodel"
-        },
-        "North1_South2_East3_West2_Up2_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West2_Up2_Down3.blockymodel"
-        },
-        "North1_South2_East3_West2_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West2_Up3_Down0.blockymodel"
-        },
-        "North1_South2_East3_West2_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West2_Up3_Down1.blockymodel"
-        },
-        "North1_South2_East3_West2_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West2_Up3_Down2.blockymodel"
-        },
-        "North1_South2_East3_West2_Up3_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West2_Up3_Down3.blockymodel"
-        },
-        "North1_South2_East3_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West3_Up0_Down0.blockymodel"
-        },
-        "North1_South2_East3_West3_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West3_Up0_Down1.blockymodel"
-        },
-        "North1_South2_East3_West3_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West3_Up0_Down2.blockymodel"
-        },
-        "North1_South2_East3_West3_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West3_Up0_Down3.blockymodel"
-        },
-        "North1_South2_East3_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West3_Up1_Down0.blockymodel"
-        },
-        "North1_South2_East3_West3_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West3_Up1_Down1.blockymodel"
-        },
         "North1_South2_East3_West3_Up1_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West3_Up1_Down2.blockymodel"
         },
         "North1_South2_East3_West3_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West3_Up1_Down3.blockymodel"
-        },
-        "North1_South2_East3_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West3_Up2_Down0.blockymodel"
-        },
-        "North1_South2_East3_West3_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West3_Up2_Down1.blockymodel"
         },
         "North1_South2_East3_West3_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West3_Up2_Down2.blockymodel"
@@ -2878,47 +1324,11 @@
         "North1_South2_East3_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West3_Up2_Down3.blockymodel"
         },
-        "North1_South2_East3_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West3_Up3_Down0.blockymodel"
-        },
-        "North1_South2_East3_West3_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West3_Up3_Down1.blockymodel"
-        },
-        "North1_South2_East3_West3_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West3_Up3_Down2.blockymodel"
-        },
         "North1_South2_East3_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South2_East3_West3_Up3_Down3.blockymodel"
         },
-        "North1_South3_East1_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East1_West3_Up0_Down0.blockymodel"
-        },
-        "North1_South3_East1_West3_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East1_West3_Up0_Down1.blockymodel"
-        },
-        "North1_South3_East1_West3_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East1_West3_Up0_Down2.blockymodel"
-        },
-        "North1_South3_East1_West3_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East1_West3_Up0_Down3.blockymodel"
-        },
-        "North1_South3_East1_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East1_West3_Up1_Down0.blockymodel"
-        },
-        "North1_South3_East1_West3_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East1_West3_Up1_Down1.blockymodel"
-        },
-        "North1_South3_East1_West3_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East1_West3_Up1_Down2.blockymodel"
-        },
         "North1_South3_East1_West3_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East1_West3_Up1_Down3.blockymodel"
-        },
-        "North1_South3_East1_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East1_West3_Up2_Down0.blockymodel"
-        },
-        "North1_South3_East1_West3_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East1_West3_Up2_Down1.blockymodel"
         },
         "North1_South3_East1_West3_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East1_West3_Up2_Down2.blockymodel"
@@ -2926,47 +1336,14 @@
         "North1_South3_East1_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East1_West3_Up2_Down3.blockymodel"
         },
-        "North1_South3_East1_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East1_West3_Up3_Down0.blockymodel"
-        },
-        "North1_South3_East1_West3_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East1_West3_Up3_Down1.blockymodel"
-        },
         "North1_South3_East1_West3_Up3_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East1_West3_Up3_Down2.blockymodel"
         },
         "North1_South3_East1_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East1_West3_Up3_Down3.blockymodel"
         },
-        "North1_South3_East2_West2_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West2_Up0_Down0.blockymodel"
-        },
-        "North1_South3_East2_West2_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West2_Up0_Down1.blockymodel"
-        },
-        "North1_South3_East2_West2_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West2_Up0_Down2.blockymodel"
-        },
-        "North1_South3_East2_West2_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West2_Up0_Down3.blockymodel"
-        },
-        "North1_South3_East2_West2_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West2_Up1_Down0.blockymodel"
-        },
-        "North1_South3_East2_West2_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West2_Up1_Down1.blockymodel"
-        },
-        "North1_South3_East2_West2_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West2_Up1_Down2.blockymodel"
-        },
         "North1_South3_East2_West2_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West2_Up1_Down3.blockymodel"
-        },
-        "North1_South3_East2_West2_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West2_Up2_Down0.blockymodel"
-        },
-        "North1_South3_East2_West2_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West2_Up2_Down1.blockymodel"
         },
         "North1_South3_East2_West2_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West2_Up2_Down2.blockymodel"
@@ -2974,47 +1351,11 @@
         "North1_South3_East2_West2_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West2_Up2_Down3.blockymodel"
         },
-        "North1_South3_East2_West2_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West2_Up3_Down0.blockymodel"
-        },
-        "North1_South3_East2_West2_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West2_Up3_Down1.blockymodel"
-        },
-        "North1_South3_East2_West2_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West2_Up3_Down2.blockymodel"
-        },
         "North1_South3_East2_West2_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West2_Up3_Down3.blockymodel"
         },
-        "North1_South3_East2_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West3_Up0_Down0.blockymodel"
-        },
-        "North1_South3_East2_West3_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West3_Up0_Down1.blockymodel"
-        },
-        "North1_South3_East2_West3_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West3_Up0_Down2.blockymodel"
-        },
-        "North1_South3_East2_West3_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West3_Up0_Down3.blockymodel"
-        },
-        "North1_South3_East2_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West3_Up1_Down0.blockymodel"
-        },
-        "North1_South3_East2_West3_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West3_Up1_Down1.blockymodel"
-        },
-        "North1_South3_East2_West3_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West3_Up1_Down2.blockymodel"
-        },
         "North1_South3_East2_West3_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West3_Up1_Down3.blockymodel"
-        },
-        "North1_South3_East2_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West3_Up2_Down0.blockymodel"
-        },
-        "North1_South3_East2_West3_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West3_Up2_Down1.blockymodel"
         },
         "North1_South3_East2_West3_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West3_Up2_Down2.blockymodel"
@@ -3022,95 +1363,14 @@
         "North1_South3_East2_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West3_Up2_Down3.blockymodel"
         },
-        "North1_South3_East2_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West3_Up3_Down0.blockymodel"
-        },
-        "North1_South3_East2_West3_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West3_Up3_Down1.blockymodel"
-        },
         "North1_South3_East2_West3_Up3_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West3_Up3_Down2.blockymodel"
         },
         "North1_South3_East2_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East2_West3_Up3_Down3.blockymodel"
         },
-        "North1_South3_East3_West2_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West2_Up0_Down0.blockymodel"
-        },
-        "North1_South3_East3_West2_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West2_Up0_Down1.blockymodel"
-        },
-        "North1_South3_East3_West2_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West2_Up0_Down2.blockymodel"
-        },
-        "North1_South3_East3_West2_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West2_Up0_Down3.blockymodel"
-        },
-        "North1_South3_East3_West2_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West2_Up1_Down0.blockymodel"
-        },
-        "North1_South3_East3_West2_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West2_Up1_Down1.blockymodel"
-        },
-        "North1_South3_East3_West2_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West2_Up1_Down2.blockymodel"
-        },
-        "North1_South3_East3_West2_Up1_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West2_Up1_Down3.blockymodel"
-        },
-        "North1_South3_East3_West2_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West2_Up2_Down0.blockymodel"
-        },
-        "North1_South3_East3_West2_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West2_Up2_Down1.blockymodel"
-        },
-        "North1_South3_East3_West2_Up2_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West2_Up2_Down2.blockymodel"
-        },
-        "North1_South3_East3_West2_Up2_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West2_Up2_Down3.blockymodel"
-        },
-        "North1_South3_East3_West2_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West2_Up3_Down0.blockymodel"
-        },
-        "North1_South3_East3_West2_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West2_Up3_Down1.blockymodel"
-        },
-        "North1_South3_East3_West2_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West2_Up3_Down2.blockymodel"
-        },
-        "North1_South3_East3_West2_Up3_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West2_Up3_Down3.blockymodel"
-        },
-        "North1_South3_East3_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West3_Up0_Down0.blockymodel"
-        },
-        "North1_South3_East3_West3_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West3_Up0_Down1.blockymodel"
-        },
-        "North1_South3_East3_West3_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West3_Up0_Down2.blockymodel"
-        },
-        "North1_South3_East3_West3_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West3_Up0_Down3.blockymodel"
-        },
-        "North1_South3_East3_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West3_Up1_Down0.blockymodel"
-        },
-        "North1_South3_East3_West3_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West3_Up1_Down1.blockymodel"
-        },
-        "North1_South3_East3_West3_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West3_Up1_Down2.blockymodel"
-        },
         "North1_South3_East3_West3_Up1_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West3_Up1_Down3.blockymodel"
-        },
-        "North1_South3_East3_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West3_Up2_Down0.blockymodel"
-        },
-        "North1_South3_East3_West3_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West3_Up2_Down1.blockymodel"
         },
         "North1_South3_East3_West3_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West3_Up2_Down2.blockymodel"
@@ -3118,47 +1378,8 @@
         "North1_South3_East3_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West3_Up2_Down3.blockymodel"
         },
-        "North1_South3_East3_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West3_Up3_Down0.blockymodel"
-        },
-        "North1_South3_East3_West3_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West3_Up3_Down1.blockymodel"
-        },
-        "North1_South3_East3_West3_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West3_Up3_Down2.blockymodel"
-        },
         "North1_South3_East3_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North1_South3_East3_West3_Up3_Down3.blockymodel"
-        },
-        "North2_South2_East2_West2_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West2_Up0_Down0.blockymodel"
-        },
-        "North2_South2_East2_West2_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West2_Up0_Down1.blockymodel"
-        },
-        "North2_South2_East2_West2_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West2_Up0_Down2.blockymodel"
-        },
-        "North2_South2_East2_West2_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West2_Up0_Down3.blockymodel"
-        },
-        "North2_South2_East2_West2_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West2_Up1_Down0.blockymodel"
-        },
-        "North2_South2_East2_West2_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West2_Up1_Down1.blockymodel"
-        },
-        "North2_South2_East2_West2_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West2_Up1_Down2.blockymodel"
-        },
-        "North2_South2_East2_West2_Up1_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West2_Up1_Down3.blockymodel"
-        },
-        "North2_South2_East2_West2_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West2_Up2_Down0.blockymodel"
-        },
-        "North2_South2_East2_West2_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West2_Up2_Down1.blockymodel"
         },
         "North2_South2_East2_West2_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West2_Up2_Down2.blockymodel"
@@ -3166,47 +1387,8 @@
         "North2_South2_East2_West2_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West2_Up2_Down3.blockymodel"
         },
-        "North2_South2_East2_West2_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West2_Up3_Down0.blockymodel"
-        },
-        "North2_South2_East2_West2_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West2_Up3_Down1.blockymodel"
-        },
-        "North2_South2_East2_West2_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West2_Up3_Down2.blockymodel"
-        },
         "North2_South2_East2_West2_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West2_Up3_Down3.blockymodel"
-        },
-        "North2_South2_East2_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West3_Up0_Down0.blockymodel"
-        },
-        "North2_South2_East2_West3_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West3_Up0_Down1.blockymodel"
-        },
-        "North2_South2_East2_West3_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West3_Up0_Down2.blockymodel"
-        },
-        "North2_South2_East2_West3_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West3_Up0_Down3.blockymodel"
-        },
-        "North2_South2_East2_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West3_Up1_Down0.blockymodel"
-        },
-        "North2_South2_East2_West3_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West3_Up1_Down1.blockymodel"
-        },
-        "North2_South2_East2_West3_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West3_Up1_Down2.blockymodel"
-        },
-        "North2_South2_East2_West3_Up1_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West3_Up1_Down3.blockymodel"
-        },
-        "North2_South2_East2_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West3_Up2_Down0.blockymodel"
-        },
-        "North2_South2_East2_West3_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West3_Up2_Down1.blockymodel"
         },
         "North2_South2_East2_West3_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West3_Up2_Down2.blockymodel"
@@ -3214,47 +1396,8 @@
         "North2_South2_East2_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West3_Up2_Down3.blockymodel"
         },
-        "North2_South2_East2_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West3_Up3_Down0.blockymodel"
-        },
-        "North2_South2_East2_West3_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West3_Up3_Down1.blockymodel"
-        },
-        "North2_South2_East2_West3_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West3_Up3_Down2.blockymodel"
-        },
         "North2_South2_East2_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East2_West3_Up3_Down3.blockymodel"
-        },
-        "North2_South2_East3_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East3_West3_Up0_Down0.blockymodel"
-        },
-        "North2_South2_East3_West3_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East3_West3_Up0_Down1.blockymodel"
-        },
-        "North2_South2_East3_West3_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East3_West3_Up0_Down2.blockymodel"
-        },
-        "North2_South2_East3_West3_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East3_West3_Up0_Down3.blockymodel"
-        },
-        "North2_South2_East3_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East3_West3_Up1_Down0.blockymodel"
-        },
-        "North2_South2_East3_West3_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East3_West3_Up1_Down1.blockymodel"
-        },
-        "North2_South2_East3_West3_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East3_West3_Up1_Down2.blockymodel"
-        },
-        "North2_South2_East3_West3_Up1_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East3_West3_Up1_Down3.blockymodel"
-        },
-        "North2_South2_East3_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East3_West3_Up2_Down0.blockymodel"
-        },
-        "North2_South2_East3_West3_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East3_West3_Up2_Down1.blockymodel"
         },
         "North2_South2_East3_West3_Up2_Down2": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East3_West3_Up2_Down2.blockymodel"
@@ -3262,164 +1405,27 @@
         "North2_South2_East3_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East3_West3_Up2_Down3.blockymodel"
         },
-        "North2_South2_East3_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East3_West3_Up3_Down0.blockymodel"
-        },
-        "North2_South2_East3_West3_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East3_West3_Up3_Down1.blockymodel"
-        },
-        "North2_South2_East3_West3_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East3_West3_Up3_Down2.blockymodel"
-        },
         "North2_South2_East3_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South2_East3_West3_Up3_Down3.blockymodel"
-        },
-        "North2_South3_East2_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East2_West3_Up0_Down0.blockymodel"
-        },
-        "North2_South3_East2_West3_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East2_West3_Up0_Down1.blockymodel"
-        },
-        "North2_South3_East2_West3_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East2_West3_Up0_Down2.blockymodel"
-        },
-        "North2_South3_East2_West3_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East2_West3_Up0_Down3.blockymodel"
-        },
-        "North2_South3_East2_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East2_West3_Up1_Down0.blockymodel"
-        },
-        "North2_South3_East2_West3_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East2_West3_Up1_Down1.blockymodel"
-        },
-        "North2_South3_East2_West3_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East2_West3_Up1_Down2.blockymodel"
-        },
-        "North2_South3_East2_West3_Up1_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East2_West3_Up1_Down3.blockymodel"
-        },
-        "North2_South3_East2_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East2_West3_Up2_Down0.blockymodel"
-        },
-        "North2_South3_East2_West3_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East2_West3_Up2_Down1.blockymodel"
-        },
-        "North2_South3_East2_West3_Up2_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East2_West3_Up2_Down2.blockymodel"
         },
         "North2_South3_East2_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East2_West3_Up2_Down3.blockymodel"
         },
-        "North2_South3_East2_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East2_West3_Up3_Down0.blockymodel"
-        },
-        "North2_South3_East2_West3_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East2_West3_Up3_Down1.blockymodel"
-        },
-        "North2_South3_East2_West3_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East2_West3_Up3_Down2.blockymodel"
-        },
         "North2_South3_East2_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East2_West3_Up3_Down3.blockymodel"
-        },
-        "North2_South3_East3_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East3_West3_Up0_Down0.blockymodel"
-        },
-        "North2_South3_East3_West3_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East3_West3_Up0_Down1.blockymodel"
-        },
-        "North2_South3_East3_West3_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East3_West3_Up0_Down2.blockymodel"
-        },
-        "North2_South3_East3_West3_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East3_West3_Up0_Down3.blockymodel"
-        },
-        "North2_South3_East3_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East3_West3_Up1_Down0.blockymodel"
-        },
-        "North2_South3_East3_West3_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East3_West3_Up1_Down1.blockymodel"
-        },
-        "North2_South3_East3_West3_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East3_West3_Up1_Down2.blockymodel"
-        },
-        "North2_South3_East3_West3_Up1_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East3_West3_Up1_Down3.blockymodel"
-        },
-        "North2_South3_East3_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East3_West3_Up2_Down0.blockymodel"
-        },
-        "North2_South3_East3_West3_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East3_West3_Up2_Down1.blockymodel"
-        },
-        "North2_South3_East3_West3_Up2_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East3_West3_Up2_Down2.blockymodel"
         },
         "North2_South3_East3_West3_Up2_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East3_West3_Up2_Down3.blockymodel"
         },
-        "North2_South3_East3_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East3_West3_Up3_Down0.blockymodel"
-        },
-        "North2_South3_East3_West3_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East3_West3_Up3_Down1.blockymodel"
-        },
-        "North2_South3_East3_West3_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East3_West3_Up3_Down2.blockymodel"
-        },
         "North2_South3_East3_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North2_South3_East3_West3_Up3_Down3.blockymodel"
-        },
-        "North3_South3_East3_West3_Up0_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North3_South3_East3_West3_Up0_Down0.blockymodel"
-        },
-        "North3_South3_East3_West3_Up0_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North3_South3_East3_West3_Up0_Down1.blockymodel"
-        },
-        "North3_South3_East3_West3_Up0_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North3_South3_East3_West3_Up0_Down2.blockymodel"
-        },
-        "North3_South3_East3_West3_Up0_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North3_South3_East3_West3_Up0_Down3.blockymodel"
-        },
-        "North3_South3_East3_West3_Up1_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North3_South3_East3_West3_Up1_Down0.blockymodel"
-        },
-        "North3_South3_East3_West3_Up1_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North3_South3_East3_West3_Up1_Down1.blockymodel"
-        },
-        "North3_South3_East3_West3_Up1_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North3_South3_East3_West3_Up1_Down2.blockymodel"
-        },
-        "North3_South3_East3_West3_Up1_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North3_South3_East3_West3_Up1_Down3.blockymodel"
-        },
-        "North3_South3_East3_West3_Up2_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North3_South3_East3_West3_Up2_Down0.blockymodel"
-        },
-        "North3_South3_East3_West3_Up2_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North3_South3_East3_West3_Up2_Down1.blockymodel"
-        },
-        "North3_South3_East3_West3_Up2_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North3_South3_East3_West3_Up2_Down2.blockymodel"
-        },
-        "North3_South3_East3_West3_Up2_Down3": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North3_South3_East3_West3_Up2_Down3.blockymodel"
-        },
-        "North3_South3_East3_West3_Up3_Down0": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North3_South3_East3_West3_Up3_Down0.blockymodel"
-        },
-        "North3_South3_East3_West3_Up3_Down1": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North3_South3_East3_West3_Up3_Down1.blockymodel"
-        },
-        "North3_South3_East3_West3_Up3_Down2": {
-          "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North3_South3_East3_West3_Up3_Down2.blockymodel"
         },
         "North3_South3_East3_West3_Up3_Down3": {
           "CustomModel": "Blocks/Pipe_Models/HyFactory_Pipe_North3_South3_East3_West3_Up3_Down3.blockymodel"
         }
       }
-    }
+    },
+    "VariantRotation": "Pipe"
   },
   "Tags": {
     "Type": [
