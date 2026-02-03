@@ -6,6 +6,7 @@ import com.hypixel.hytale.server.core.modules.interaction.interaction.config.Int
 import com.hypixel.hytale.server.core.plugin.JavaPlugin
 import com.hypixel.hytale.server.core.plugin.JavaPluginInit
 import com.hypixel.hytale.server.core.universe.world.storage.ChunkStore
+import com.trinex.hyfactory.commands.PlaceItemPipeTestCommand
 import com.trinex.hyfactory.commands.VersionCommand
 import com.trinex.hyfactory.energy.devices.Devices
 import com.trinex.hyfactory.energy.EnergyPipeVisualSystem
@@ -38,6 +39,7 @@ class HyFactory(
             .register("ConfigureItemPipe", ConfigureItemPipeInteraction::class.java, ConfigureItemPipeInteraction.CODEC)
 
         this.commandRegistry.registerCommand(VersionCommand(this))
+        this.commandRegistry.registerCommand(PlaceItemPipeTestCommand())
     }
 
     companion object {
