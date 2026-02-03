@@ -11,8 +11,7 @@
     "Website": "",
     "ServerVersion": "*",
     "Dependencies": {
-        "Trinex:Library": ">0.0.5",
-        "Ellie:HyUI": "*"
+        "Trinex:Library": ">0.0.5"
     },
     "OptionalDependencies": {
         

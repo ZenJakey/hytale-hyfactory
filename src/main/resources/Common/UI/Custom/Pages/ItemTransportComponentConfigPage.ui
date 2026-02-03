@@ -1,0 +1,226 @@
+$C = "../Common.ui";
+
+$C.@PageOverlay {
+  LayoutMode: Middle;
+
+  $C.@DecoratedContainer {
+    Anchor: (Width: 660, Height: 480);
+
+    #Title {
+      $C.@Title {
+        @Text = "Item Pipe Configuration";
+      }
+    }
+
+    #Content {
+      LayoutMode: Top;
+
+      Label #ErrorLabel {
+        Text: "Item transport component not found.";
+        Visible: false;
+      }
+
+      Group #ConfigArea {
+        LayoutMode: Top;
+
+        Group #TransferRow {
+          LayoutMode: Left;
+          Anchor: (Height: 30);
+
+          Label #TransferSpeedLabel {
+            Text: "Transfer Speed";
+            Anchor: (Width: 140);
+            Style: $C.@DefaultLabelStyle;
+          }
+          $C.@TextField #TransferSpeed {
+            @Anchor = (Width: 120);
+          }
+        }
+
+        Group #HeaderRow {
+          LayoutMode: Left;
+          Anchor: (Height: 24);
+
+          Label #SideHeader {
+            Text: "Side";
+            Anchor: (Width: 80);
+            Style: $C.@DefaultLabelStyle;
+          }
+          Label #ModeHeader {
+            Text: "Mode";
+            Anchor: (Width: 120);
+            Style: $C.@DefaultLabelStyle;
+          }
+          Label #FilterHeader {
+            Text: "Filter";
+            Anchor: (Width: 200);
+            Style: $C.@DefaultLabelStyle;
+          }
+          Label #FilterModeHeader {
+            Text: "Filter Mode";
+            Anchor: (Width: 110);
+            Style: $C.@DefaultLabelStyle;
+          }
+          Label #MatchHeader {
+            Text: "Match";
+            Anchor: (Width: 70);
+            Style: $C.@DefaultLabelStyle;
+          }
+        }
+
+        Group #SideNorth {
+          LayoutMode: Left;
+          Anchor: (Height: 28);
+
+          Label #SideLabel {
+            Text: "North";
+            Anchor: (Width: 80);
+            Style: $C.@DefaultLabelStyle;
+          }
+          $C.@DropdownBox #Mode {
+            @Anchor = (Width: 100);
+          }
+          $C.@TextField #FilterIds {
+            @Anchor = (Width: 200);
+          }
+          $C.@DropdownBox #FilterMode {
+            @Anchor = (Width: 90);
+          }
+          $C.@CheckBox #MatchMeta {
+            @Anchor = (Width: 70);
+          }
+        }
+
+        Group #SideSouth {
+          LayoutMode: Left;
+          Anchor: (Height: 28);
+
+          Label #SideLabel {
+            Text: "South";
+            Anchor: (Width: 80);
+            Style: $C.@DefaultLabelStyle;
+          }
+          $C.@DropdownBox #Mode {
+            @Anchor = (Width: 100);
+          }
+          $C.@TextField #FilterIds {
+            @Anchor = (Width: 200);
+          }
+          $C.@DropdownBox #FilterMode {
+            @Anchor = (Width: 90);
+          }
+          $C.@CheckBox #MatchMeta {
+            @Anchor = (Width: 70);
+          }
+        }
+
+        Group #SideEast {
+          LayoutMode: Left;
+          Anchor: (Height: 28);
+
+          Label #SideLabel {
+            Text: "East";
+            Anchor: (Width: 80);
+            Style: $C.@DefaultLabelStyle;
+          }
+          $C.@DropdownBox #Mode {
+            @Anchor = (Width: 100);
+          }
+          $C.@TextField #FilterIds {
+            @Anchor = (Width: 200);
+          }
+          $C.@DropdownBox #FilterMode {
+            @Anchor = (Width: 90);
+          }
+          $C.@CheckBox #MatchMeta {
+            @Anchor = (Width: 70);
+          }
+        }
+
+        Group #SideWest {
+          LayoutMode: Left;
+          Anchor: (Height: 28);
+
+          Label #SideLabel {
+            Text: "West";
+            Anchor: (Width: 80);
+            Style: $C.@DefaultLabelStyle;
+          }
+          $C.@DropdownBox #Mode {
+            @Anchor = (Width: 100);
+          }
+          $C.@TextField #FilterIds {
+            @Anchor = (Width: 200);
+          }
+          $C.@DropdownBox #FilterMode {
+            @Anchor = (Width: 90);
+          }
+          $C.@CheckBox #MatchMeta {
+            @Anchor = (Width: 70);
+          }
+        }
+
+        Group #SideUp {
+          LayoutMode: Left;
+          Anchor: (Height: 28);
+
+          Label #SideLabel {
+            Text: "Up";
+            Anchor: (Width: 80);
+            Style: $C.@DefaultLabelStyle;
+          }
+          $C.@DropdownBox #Mode {
+            @Anchor = (Width: 100);
+          }
+          $C.@TextField #FilterIds {
+            @Anchor = (Width: 200);
+          }
+          $C.@DropdownBox #FilterMode {
+            @Anchor = (Width: 90);
+          }
+          $C.@CheckBox #MatchMeta {
+            @Anchor = (Width: 70);
+          }
+        }
+
+        Group #SideDown {
+          LayoutMode: Left;
+          Anchor: (Height: 28);
+
+          Label #SideLabel {
+            Text: "Down";
+            Anchor: (Width: 80);
+            Style: $C.@DefaultLabelStyle;
+          }
+          $C.@DropdownBox #Mode {
+            @Anchor = (Width: 100);
+          }
+          $C.@TextField #FilterIds {
+            @Anchor = (Width: 200);
+          }
+          $C.@DropdownBox #FilterMode {
+            @Anchor = (Width: 90);
+          }
+          $C.@CheckBox #MatchMeta {
+            @Anchor = (Width: 70);
+          }
+        }
+
+        Group #Buttons {
+          LayoutMode: Left;
+          Anchor: (Height: 36);
+
+          $C.@TextButton #ApplyButton {
+            Text: "Apply";
+          }
+          $C.@SecondaryTextButton #ResetButton {
+            Text: "Reset";
+          }
+          $C.@SecondaryTextButton #CloseButton {
+            Text: "Close";
+          }
+        }
+      }
+    }
+  }
+}
